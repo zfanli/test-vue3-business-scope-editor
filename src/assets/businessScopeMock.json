@@ -1,0 +1,3066 @@
+[
+  {
+    "shortId": "c4be58",
+    "scopeId": "da3c801ef2c34ee98747bb3e7371547f",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5121\",\"name\":\"米、面制品及食用油批发\"},{\"code\":\"5221\",\"name\":\"粮油零售\"},{\"code\":\"5122\",\"name\":\"糕点、糖果及糖批发\"},{\"code\":\"5222\",\"name\":\"糕点、面包零售\"},{\"code\":\"5123\",\"name\":\"果品、蔬菜批发\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"5223\",\"name\":\"果品、蔬菜零售\"},{\"code\":\"5124\",\"name\":\"肉、禽、蛋、奶及水产品批发\"},{\"code\":\"5224\",\"name\":\"肉、禽、蛋、奶及水产品零售\"},{\"code\":\"5125\",\"name\":\"盐及调味品批发\"},{\"code\":\"511\",\"name\":\"农、林、牧、渔产品批发\"},{\"code\":\"512\",\"name\":\"食品、饮料及烟草制品批发\"},{\"code\":\"5115\",\"name\":\"林业产品批发\"},{\"code\":\"5117\",\"name\":\"渔业产品批发\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"5119\",\"name\":\"其他农牧产品批发\"},{\"code\":\"52\",\"name\":\"零售业\"},{\"code\":\"519\",\"name\":\"其他批发业\"},{\"code\":\"5111\",\"name\":\"谷物、豆及薯类批发\"},{\"code\":\"5292\",\"name\":\"互联网零售\"},{\"code\":\"5193\",\"name\":\"互联网批发\"},{\"code\":\"522\",\"name\":\"食品、饮料及烟草制品专门零售\"},{\"code\":\"5225\",\"name\":\"营养和保健品零售\"},{\"code\":\"5126\",\"name\":\"营养和保健品批发\"},{\"code\":\"5226\",\"name\":\"酒、饮料及茶叶零售\"},{\"code\":\"5127\",\"name\":\"酒、饮料及茶叶批发\"},{\"code\":\"5129\",\"name\":\"其他食品批发\"},{\"code\":\"529\",\"name\":\"货摊、无店铺及其他零售业\"},{\"code\":\"5229\",\"name\":\"其他食品零售\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事食品经营（仅销售预包装食品）的经营活动。",
+    "gbName": "5221粮油零售；5222糕点、面包零售；5223果品、蔬菜零售；5224肉、禽、蛋、奶及水产品零售；5225营养和保健品零售；5226酒、饮料及茶叶零售；5229其他食品零售；5292互联网零售；5193互联网批发；5121米、面制品及食用油批发；5122糕点、糖果及糖批发；5123果品、蔬菜批发；5124肉、禽、蛋、奶及水产品批发；5125盐及调味品批发；5126营养和保健品批发；5127酒、饮料及茶叶批发；5129其他食品批发；5111谷物、豆及薯类批发；5117渔业产品批发；5115林业产品批发；5119其他农牧产品批发",
+    "permitExplain": "",
+    "entType": "1;2;3;4;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": [
+        "<b style='color: #1890ff'>食品</b>销售（仅销售预包装<b style='color: #1890ff'>食品</b>）"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 4,
+    "scopeCode": "F1040",
+    "approvalList": [
+      {
+        "reformMeasure": "1.对仅销售预包装食品的企业，取消食品经营许可，改为备案管理。2.将“食品经营备案（仅销售预包装食品）”纳入“多证合一”范围，在企业登记注册环节一并办理备案手续。主要理由：1.该项改革举措已在自贸试验区试点，试点期间备案企业数量为“证照分离”改革试点全部改革事项之最，企业反响良好，具备向全国复制推广的条件。2.预包装食品是预先定量包装或制作在一定的包装材料或容器中的食品，出厂时已印制生产日期和保质期标识，经营环节一般不改变预包装形态，消费者通过生产日期和保质期标识可以有效识别风险，因此可以放宽对经营企业的准入管理。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "6",
+        "notificationMethodCode": "4",
+        "licenseName": "仅销售预包装食品备案文件",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "多证合一",
+        "aName": "食品经营许可（仅销售预包装食品）",
+        "aCode": "31000053571",
+        "notificationMethod": "其他",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "dab562357b6d6c6218ac1bd3487fcedd",
+        "licences": [
+          {
+            "code": "1000000156",
+            "name": "仅销售预包装食品备案文件"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "食品销售（仅销售预包装食品）",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "849cbb",
+    "scopeId": "2775a270d03e4a719a11beac4086be30",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"1462\",\"name\":\"酱油、食醋及类似制品制造\"},{\"code\":\"1340\",\"name\":\"制糖业\"},{\"code\":\"1461\",\"name\":\"味精制造\"},{\"code\":\"151\",\"name\":\"酒的制造\"},{\"code\":\"152\",\"name\":\"饮料制造\"},{\"code\":\"153\",\"name\":\"精制茶加工\"},{\"code\":\"1459\",\"name\":\"其他罐头食品制造\"},{\"code\":\"1411\",\"name\":\"糕点、面包制造\"},{\"code\":\"1499\",\"name\":\"其他未列明食品制造\"},{\"code\":\"1453\",\"name\":\"蔬菜、水果罐头制造\"},{\"code\":\"1530\",\"name\":\"精制茶加工\"},{\"code\":\"1331\",\"name\":\"食用植物油加工\"},{\"code\":\"1452\",\"name\":\"水产品罐头制造\"},{\"code\":\"1419\",\"name\":\"饼干及其他焙烤食品制造\"},{\"code\":\"13\",\"name\":\"农副食品加工业\"},{\"code\":\"14\",\"name\":\"食品制造业\"},{\"code\":\"15\",\"name\":\"酒、饮料和精制茶制造业\"},{\"code\":\"1393\",\"name\":\"蛋品加工\"},{\"code\":\"1392\",\"name\":\"豆制品制造\"},{\"code\":\"1391\",\"name\":\"淀粉及淀粉制品制造\"},{\"code\":\"1469\",\"name\":\"其他调味品、发酵制品制造\"},{\"code\":\"1422\",\"name\":\"蜜饯制作\"},{\"code\":\"1421\",\"name\":\"糖果、巧克力制造\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"1363\",\"name\":\"鱼油提取及制品制造\"},{\"code\":\"1362\",\"name\":\"鱼糜制品及水产品干腌制加工\"},{\"code\":\"1514\",\"name\":\"黄酒制造\"},{\"code\":\"133\",\"name\":\"植物油加工\"},{\"code\":\"1513\",\"name\":\"啤酒制造\"},{\"code\":\"134\",\"name\":\"制糖业\"},{\"code\":\"1512\",\"name\":\"白酒制造\"},{\"code\":\"135\",\"name\":\"屠宰及肉类加工\"},{\"code\":\"1511\",\"name\":\"酒精制造\"},{\"code\":\"136\",\"name\":\"水产品加工\"},{\"code\":\"1433\",\"name\":\"方便面制造\"},{\"code\":\"137\",\"name\":\"蔬菜、菌类、水果和坚果加工\"},{\"code\":\"1399\",\"name\":\"其他未列明农副食品加工\"},{\"code\":\"1432\",\"name\":\"速冻食品制造\"},{\"code\":\"1431\",\"name\":\"米、面制品制造\"},{\"code\":\"139\",\"name\":\"其他农副食品加工\"},{\"code\":\"1353\",\"name\":\"肉制品及副产品加工\"},{\"code\":\"1519\",\"name\":\"其他酒制造\"},{\"code\":\"1439\",\"name\":\"其他方便食品制造\"},{\"code\":\"1515\",\"name\":\"葡萄酒制造\"},{\"code\":\"1451\",\"name\":\"肉、禽类罐头制造\"},{\"code\":\"1373\",\"name\":\"水果和坚果加工\"},{\"code\":\"1372\",\"name\":\"食用菌加工\"},{\"code\":\"1493\",\"name\":\"冷冻饮品及食用冰制造\"},{\"code\":\"1371\",\"name\":\"蔬菜加工\"},{\"code\":\"1492\",\"name\":\"保健食品制造\"},{\"code\":\"1491\",\"name\":\"营养食品制造\"},{\"code\":\"141\",\"name\":\"焙烤食品制造\"},{\"code\":\"142\",\"name\":\"糖果、巧克力及蜜饯制造\"},{\"code\":\"143\",\"name\":\"方便食品制造\"},{\"code\":\"1525\",\"name\":\"固体饮料制造\"},{\"code\":\"144\",\"name\":\"乳制品制造\"},{\"code\":\"1524\",\"name\":\"含乳饮料和植物蛋白饮料制造\"},{\"code\":\"145\",\"name\":\"罐头食品制造\"},{\"code\":\"1369\",\"name\":\"其他水产品加工\"},{\"code\":\"1523\",\"name\":\"果菜汁及果菜汁饮料制造\"},{\"code\":\"146\",\"name\":\"调味品、发酵制品制造\"},{\"code\":\"1522\",\"name\":\"瓶（罐）装饮用水制造\"},{\"code\":\"1521\",\"name\":\"碳酸饮料制造\"},{\"code\":\"149\",\"name\":\"其他食品制造\"},{\"code\":\"1442\",\"name\":\"乳粉制造\"},{\"code\":\"1441\",\"name\":\"液体乳制造\"},{\"code\":\"1529\",\"name\":\"茶饮料及其他饮料制造\"},{\"code\":\"1449\",\"name\":\"其他乳制品制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国食品安全法》，从事粮食加工品，食用油、油脂及其制品，调味品，肉制品，乳制品，饮料，方便食品，饼干，罐头，冷冻饮品，速冻食品，薯类和膨化食品，糖果制品，茶叶及相关制品，酒类，蔬菜制品，水果制品，炒货食品及坚果制品，蛋制品，可可及焙烤咖啡产品，食糖，水产制品，淀粉及淀粉制品，糕点，豆制品，蜂产品，保健食品，特殊医学用途配方食品，婴幼儿配方食品，特殊膳食食品，其他食品的生产活动。",
+    "gbName": "1331食用植物油加工；1340制糖业；1353肉制品及副产品加工；1362鱼糜制品及水产品干腌制加工；1363鱼油提取及制品制造；1369其他水产品加工；137蔬菜、菌类、水果和坚果加工；1391淀粉及淀粉制品制造；1392豆制品制造；1393蛋品加工；1399其他未列明农副食品加工；141焙烤食品制造；142糖果、巧克力及蜜饯制造；143方便食品制造；144乳制品制造；145罐头食品制造；146调味品、发酵制品制造；1491营养食品制造；1492保健食品制造；1493冷冻饮品及食用冰制造；1499其他未列明食品制造；15酒、饮料和精制茶制造业",
+    "permitExplain": "",
+    "entType": "1;2;3;4;5",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["<b style='color: #1890ff'>食品</b>生产"],
+      "includedItemsIk": [
+        "<b style='color: #1890ff'>食品</b>用糖化酶；<b style='color: #1890ff'>食品</b>用淀粉酶；<b style='color: #1890ff'>食品</b>用蛋白酶；营养<b style='color: #1890ff'>食品</b>；婴幼儿用均化<b style='color: #1890ff'>食品</b>；肉类均化<b style='color: #1890ff'>食品</b>",
+        "；抗疲劳<b style='color: #1890ff'>食品</b>；减肥<b style='color: #1890ff'>食品</b>；耐缺氧<b style='color: #1890ff'>食品</b>；抗辐射<b style='color: #1890ff'>食品</b>；抗突变<b style='color: #1890ff'>食品</b>；抑制肿瘤<b style='color: #1890ff'>食品</b>；调节血脂<b style='color: #1890ff'>食品</b>"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C1005",
+    "approvalList": [
+      {
+        "reformMeasure": "取消对出口食品生产企业的许可准入管理，改为备案管理。主要理由：1.2020年8月26日，国务院第105次常务会议已审议通过取消该项许可，改为备案管理。2.根据食品安全法和我国签署的有关双边、多边协定规定，我国食品生产企业向外国出口食品，需要先向我国海关进行备案，我国海关将备案信息推送至目的地国指定主管部门，由该国指定主管部门对我国提出申请的食品生产企业进行审查，审查通过后方可向该国出口食品产品。因此，我国海关实施的备案管理，不具有正式法律效力，主要是我国政府为企业提供的一项公共服务，没有必要再保留许可。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";8;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "海关部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "出口食品生产企业备案证明",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "111000000024032689",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "88ad7c20f63a64df142087a6715be02f",
+            "depLevel": "prefecture",
+            "depName": "上海海关"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "出口食品生产企业备案核准",
+        "aCode": "31000053570",
+        "notificationMethod": "其他",
+        "approvalLevel": "主管海关",
+        "aId": "4ac50226ae01f5a92abc27be1df7eac2",
+        "licences": [
+          {
+            "code": "1000000006",
+            "name": "出口食品生产企业备案证明"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "食品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "d478c8",
+    "scopeId": "c462072faa5047b683996d3490a786e3",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5121\",\"name\":\"米、面制品及食用油批发\"},{\"code\":\"5122\",\"name\":\"糕点、糖果及糖批发\"},{\"code\":\"5221\",\"name\":\"粮油零售\"},{\"code\":\"5123\",\"name\":\"果品、蔬菜批发\"},{\"code\":\"5222\",\"name\":\"糕点、面包零售\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"5124\",\"name\":\"肉、禽、蛋、奶及水产品批发\"},{\"code\":\"5223\",\"name\":\"果品、蔬菜零售\"},{\"code\":\"5125\",\"name\":\"盐及调味品批发\"},{\"code\":\"5224\",\"name\":\"肉、禽、蛋、奶及水产品零售\"},{\"code\":\"522\",\"name\":\"食品、饮料及烟草制品专门零售\"},{\"code\":\"512\",\"name\":\"食品、饮料及烟草制品批发\"},{\"code\":\"5126\",\"name\":\"营养和保健品批发\"},{\"code\":\"5225\",\"name\":\"营养和保健品零售\"},{\"code\":\"5127\",\"name\":\"酒、饮料及茶叶批发\"},{\"code\":\"5226\",\"name\":\"酒、饮料及茶叶零售\"},{\"code\":\"5129\",\"name\":\"其他食品批发\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"5229\",\"name\":\"其他食品零售\"},{\"code\":\"52\",\"name\":\"零售业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事食品批发、零售、互联网销售的经营活动",
+    "gbName": "5121米、面制品及食用油批发；5122糕点、糖果及糖批发；5123果品、蔬菜批发；5124肉、禽、蛋、奶及水产品批发；5125盐及调味品批发；5126营养和保健品批发；5127酒、饮料及茶叶批发；5129其他食品批发；5221粮油零售；5222糕点、面包零售；5223果品、蔬菜零售；5224肉、禽、蛋、奶及水产品零售；5225营养和保健品零售；5226酒、饮料及茶叶零售；5229其他食品零售",
+    "permitExplain": "",
+    "entType": "1;2;3;4;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["<b style='color: #1890ff'>食品</b>销售"],
+      "includedItemsIk": [
+        "预包装<b style='color: #1890ff'>食品</b>；散装<b style='color: #1890ff'>食品</b>；特殊<b style='color: #1890ff'>食品</b>；保健<b style='color: #1890ff'>食品</b>；特殊医学用途配方<b style='color: #1890ff'>食品</b>；婴幼儿配方乳粉；挂面",
+        "；饮片保健<b style='color: #1890ff'>食品</b>；口服液保健<b style='color: #1890ff'>食品</b>；冲剂保健<b style='color: #1890ff'>食品</b>；其他<b style='color: #1890ff'>食品</b>类保健品；其他饮品类保健品；"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "F1041",
+    "approvalList": [
+      {
+        "reformMeasure": "1.对经营条件未发生变化的企业申请变更、延续许可，实行告知承诺。制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。2.餐饮服务经营者销售预包装食品的，不需要申请在许可证上标注销售类食品经营项目。3.不再要求申请人提供营业执照复印件。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "食品经营许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "食品经营许可（除仅销售预包装食品外）",
+        "aCode": "31000053491",
+        "notificationMethod": "双告知",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "4882eb2404412c27f0ec6dc182321c62",
+        "licences": [
+          {
+            "code": "1000000157",
+            "name": "食品经营许可证"
+          }
+        ]
+      },
+      {
+        "reformMeasure": "1.制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。2.实现申请、审批全程网上办理。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "酒类商品批发许可证、酒类商品零售许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [],
+        "reformMode": "实行告知承诺",
+        "aName": "酒类商品经营（批发、零售）许可",
+        "aCode": "31000007003",
+        "notificationMethod": "双告知",
+        "approvalLevel": "市、区市场监管部门",
+        "aId": "4d71edfb01ff4f82bcb5b0f678968657",
+        "licences": []
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "食品销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "04ab1a",
+    "scopeId": "2db16f93e6e697b88c78762094c4ec9f",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5121\",\"name\":\"米、面制品及食用油批发\"},{\"code\":\"5122\",\"name\":\"糕点、糖果及糖批发\"},{\"code\":\"5221\",\"name\":\"粮油零售\"},{\"code\":\"5123\",\"name\":\"果品、蔬菜批发\"},{\"code\":\"5222\",\"name\":\"糕点、面包零售\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"5124\",\"name\":\"肉、禽、蛋、奶及水产品批发\"},{\"code\":\"5223\",\"name\":\"果品、蔬菜零售\"},{\"code\":\"5125\",\"name\":\"盐及调味品批发\"},{\"code\":\"5224\",\"name\":\"肉、禽、蛋、奶及水产品零售\"},{\"code\":\"511\",\"name\":\"农、林、牧、渔产品批发\"},{\"code\":\"512\",\"name\":\"食品、饮料及烟草制品批发\"},{\"code\":\"5115\",\"name\":\"林业产品批发\"},{\"code\":\"5117\",\"name\":\"渔业产品批发\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"5119\",\"name\":\"其他农牧产品批发\"},{\"code\":\"52\",\"name\":\"零售业\"},{\"code\":\"519\",\"name\":\"其他批发业\"},{\"code\":\"5111\",\"name\":\"谷物、豆及薯类批发\"},{\"code\":\"5292\",\"name\":\"互联网零售\"},{\"code\":\"5193\",\"name\":\"互联网批发\"},{\"code\":\"522\",\"name\":\"食品、饮料及烟草制品专门零售\"},{\"code\":\"5126\",\"name\":\"营养和保健品批发\"},{\"code\":\"5225\",\"name\":\"营养和保健品零售\"},{\"code\":\"5127\",\"name\":\"酒、饮料及茶叶批发\"},{\"code\":\"5226\",\"name\":\"酒、饮料及茶叶零售\"},{\"code\":\"5129\",\"name\":\"其他食品批发\"},{\"code\":\"529\",\"name\":\"货摊、无店铺及其他零售业\"},{\"code\":\"5229\",\"name\":\"其他食品零售\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事食品互联网销售（仅销售预包装食品）的经营活动。",
+    "gbName": "5121米、面制品及食用油批发；5122糕点、糖果及糖批发；5123果品、蔬菜批发；5124肉、禽、蛋、奶及水产品批发；5125盐及调味品批发；5126营养和保健品批发；5127酒、饮料及茶叶批发；5129其他食品批发；5111谷物、豆及薯类批发；5117渔业产品批发；5119其他农牧产品批发；5115林业产品批发；5221粮油零售；5222糕点、面包零售；5223果品、蔬菜零售；5224肉、禽、蛋、奶及水产品零售；5225营养和保健品零售；5226酒、饮料及茶叶零售；5229其他食品零售；5292互联网零售；5193互联网批发",
+    "permitExplain": "",
+    "entType": "1;2;3;4",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": [
+        "<b style='color: #1890ff'>食品</b>互联网销售（仅销售预包装<b style='color: #1890ff'>食品</b>）"
+      ],
+      "includedItemsIk": ["仅销售预包装<b style='color: #1890ff'>食品</b>；"]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 4,
+    "scopeCode": "F3235",
+    "approvalList": [
+      {
+        "reformMeasure": "1.对仅销售预包装食品的企业，取消食品经营许可，改为备案管理。2.将“食品经营备案（仅销售预包装食品）”纳入“多证合一”范围，在企业登记注册环节一并办理备案手续。主要理由：1.该项改革举措已在自贸试验区试点，试点期间备案企业数量为“证照分离”改革试点全部改革事项之最，企业反响良好，具备向全国复制推广的条件。2.预包装食品是预先定量包装或制作在一定的包装材料或容器中的食品，出厂时已印制生产日期和保质期标识，经营环节一般不改变预包装形态，消费者通过生产日期和保质期标识可以有效识别风险，因此可以放宽对经营企业的准入管理。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "6",
+        "notificationMethodCode": "4",
+        "licenseName": "仅销售预包装食品备案文件",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "多证合一",
+        "aName": "食品经营许可（仅销售预包装食品）",
+        "aCode": "31000053571",
+        "notificationMethod": "其他",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "dab562357b6d6c6218ac1bd3487fcedd",
+        "licences": [
+          {
+            "code": "1000000156",
+            "name": "仅销售预包装食品备案文件"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "食品互联网销售（仅销售预包装食品）",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "04eeda",
+    "scopeId": "cdeb43a16825e9d352f29604b5035608",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5121\",\"name\":\"米、面制品及食用油批发\"},{\"code\":\"5122\",\"name\":\"糕点、糖果及糖批发\"},{\"code\":\"5123\",\"name\":\"果品、蔬菜批发\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"512\",\"name\":\"食品、饮料及烟草制品批发\"},{\"code\":\"5125\",\"name\":\"盐及调味品批发\"},{\"code\":\"5126\",\"name\":\"营养和保健品批发\"},{\"code\":\"5127\",\"name\":\"酒、饮料及茶叶批发\"},{\"code\":\"5129\",\"name\":\"其他食品批发\"},{\"code\":\"51\",\"name\":\"批发业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "gbName": "5121米、面制品及食用油批发；5122糕点、糖果及糖批发；5123果品、蔬菜批发；5125盐及调味品批发；5126营养和保健品批发；5127酒、饮料及茶叶批发；5129其他食品批发",
+    "permitExplain": "",
+    "entType": "1;2",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["<b style='color: #1890ff'>食品</b>进出口"],
+      "includedItemsIk": [
+        "<b style='color: #1890ff'>食品</b>进口；<b style='color: #1890ff'>食品</b>出口"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 4,
+    "scopeCode": "F4005",
+    "approvalList": [
+      {
+        "reformMeasure": "取消对外贸易经营者的许可准入管理，改为备案管理。主要理由：我国入世时已对取消对外贸易经营者的许可准入管理作出明确承诺。从管理实践看，商务部门实施的登记主要是采集有关信息，通过备案制度即可达到管理目的。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";1;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "商务部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "对外贸易经营者备案登记表",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "113100000024280004",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "a986b18469524f202fa3bc487964b954",
+            "depLevel": "prefecture",
+            "depName": "上海市商务委员会"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "对外贸易经营者备案登记",
+        "aCode": "31000053563",
+        "approvalLevel": "县级以上地方商务部门",
+        "aId": "ca4ee6e9abce5b0364e6b0e8df3f9d08",
+        "licences": [
+          {
+            "code": "1000000427",
+            "name": "对外贸易经营者备案登记表"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "食品进出口",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "d415fb",
+    "scopeId": "c6a76e7d09514aee9ca43a1132fd9c22",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"14\",\"name\":\"食品制造业\"},{\"code\":\"149\",\"name\":\"其他食品制造\"},{\"code\":\"1492\",\"name\":\"保健食品制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国食品安全法》，从事保健食品生产的活动。",
+    "gbName": "1492保健食品制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["保健<b style='color: #1890ff'>食品</b>生产"],
+      "includedItemsIk": [
+        "保健<b style='color: #1890ff'>食品</b>；片剂；粉剂；颗粒剂；茶剂；硬胶囊剂；软胶囊剂；口服液；丸剂；膏剂；饮料；"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C2003",
+    "approvalList": [
+      {
+        "reformMeasure": "取消对出口食品生产企业的许可准入管理，改为备案管理。主要理由：1.2020年8月26日，国务院第105次常务会议已审议通过取消该项许可，改为备案管理。2.根据食品安全法和我国签署的有关双边、多边协定规定，我国食品生产企业向外国出口食品，需要先向我国海关进行备案，我国海关将备案信息推送至目的地国指定主管部门，由该国指定主管部门对我国提出申请的食品生产企业进行审查，审查通过后方可向该国出口食品产品。因此，我国海关实施的备案管理，不具有正式法律效力，主要是我国政府为企业提供的一项公共服务，没有必要再保留许可。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";8;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "海关部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "出口食品生产企业备案证明",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "111000000024032689",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "88ad7c20f63a64df142087a6715be02f",
+            "depLevel": "prefecture",
+            "depName": "上海海关"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "出口食品生产企业备案核准",
+        "aCode": "31000053570",
+        "notificationMethod": "其他",
+        "approvalLevel": "主管海关",
+        "aId": "4ac50226ae01f5a92abc27be1df7eac2",
+        "licences": [
+          {
+            "code": "1000000006",
+            "name": "出口食品生产企业备案证明"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "保健食品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "94ef68",
+    "scopeId": "7a38db2a2c96603bf442c9e1172ce16c",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"1462\",\"name\":\"酱油、食醋及类似制品制造\"},{\"code\":\"1340\",\"name\":\"制糖业\"},{\"code\":\"1461\",\"name\":\"味精制造\"},{\"code\":\"151\",\"name\":\"酒的制造\"},{\"code\":\"152\",\"name\":\"饮料制造\"},{\"code\":\"153\",\"name\":\"精制茶加工\"},{\"code\":\"1459\",\"name\":\"其他罐头食品制造\"},{\"code\":\"1411\",\"name\":\"糕点、面包制造\"},{\"code\":\"1530\",\"name\":\"精制茶加工\"},{\"code\":\"1332\",\"name\":\"非食用植物油加工\"},{\"code\":\"1453\",\"name\":\"蔬菜、水果罐头制造\"},{\"code\":\"1331\",\"name\":\"食用植物油加工\"},{\"code\":\"1452\",\"name\":\"水产品罐头制造\"},{\"code\":\"1419\",\"name\":\"饼干及其他焙烤食品制造\"},{\"code\":\"13\",\"name\":\"农副食品加工业\"},{\"code\":\"14\",\"name\":\"食品制造业\"},{\"code\":\"15\",\"name\":\"酒、饮料和精制茶制造业\"},{\"code\":\"1469\",\"name\":\"其他调味品、发酵制品制造\"},{\"code\":\"1422\",\"name\":\"蜜饯制作\"},{\"code\":\"1421\",\"name\":\"糖果、巧克力制造\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"1363\",\"name\":\"鱼油提取及制品制造\"},{\"code\":\"1362\",\"name\":\"鱼糜制品及水产品干腌制加工\"},{\"code\":\"1361\",\"name\":\"水产品冷冻加工\"},{\"code\":\"131\",\"name\":\"谷物磨制\"},{\"code\":\"1514\",\"name\":\"黄酒制造\"},{\"code\":\"133\",\"name\":\"植物油加工\"},{\"code\":\"1513\",\"name\":\"啤酒制造\"},{\"code\":\"134\",\"name\":\"制糖业\"},{\"code\":\"1512\",\"name\":\"白酒制造\"},{\"code\":\"1314\",\"name\":\"杂粮加工\"},{\"code\":\"135\",\"name\":\"屠宰及肉类加工\"},{\"code\":\"1511\",\"name\":\"酒精制造\"},{\"code\":\"1313\",\"name\":\"玉米加工\"},{\"code\":\"136\",\"name\":\"水产品加工\"},{\"code\":\"1312\",\"name\":\"小麦加工\"},{\"code\":\"1433\",\"name\":\"方便面制造\"},{\"code\":\"137\",\"name\":\"蔬菜、菌类、水果和坚果加工\"},{\"code\":\"1311\",\"name\":\"稻谷加工\"},{\"code\":\"1432\",\"name\":\"速冻食品制造\"},{\"code\":\"1431\",\"name\":\"米、面制品制造\"},{\"code\":\"1353\",\"name\":\"肉制品及副产品加工\"},{\"code\":\"1519\",\"name\":\"其他酒制造\"},{\"code\":\"1319\",\"name\":\"其他谷物磨制\"},{\"code\":\"1439\",\"name\":\"其他方便食品制造\"},{\"code\":\"1515\",\"name\":\"葡萄酒制造\"},{\"code\":\"1451\",\"name\":\"肉、禽类罐头制造\"},{\"code\":\"1373\",\"name\":\"水果和坚果加工\"},{\"code\":\"1372\",\"name\":\"食用菌加工\"},{\"code\":\"1371\",\"name\":\"蔬菜加工\"},{\"code\":\"141\",\"name\":\"焙烤食品制造\"},{\"code\":\"142\",\"name\":\"糖果、巧克力及蜜饯制造\"},{\"code\":\"143\",\"name\":\"方便食品制造\"},{\"code\":\"1525\",\"name\":\"固体饮料制造\"},{\"code\":\"144\",\"name\":\"乳制品制造\"},{\"code\":\"1524\",\"name\":\"含乳饮料和植物蛋白饮料制造\"},{\"code\":\"145\",\"name\":\"罐头食品制造\"},{\"code\":\"1523\",\"name\":\"果菜汁及果菜汁饮料制造\"},{\"code\":\"1369\",\"name\":\"其他水产品加工\"},{\"code\":\"146\",\"name\":\"调味品、发酵制品制造\"},{\"code\":\"1522\",\"name\":\"瓶（罐）装饮用水制造\"},{\"code\":\"1521\",\"name\":\"碳酸饮料制造\"},{\"code\":\"1442\",\"name\":\"乳粉制造\"},{\"code\":\"1441\",\"name\":\"液体乳制造\"},{\"code\":\"1529\",\"name\":\"茶饮料及其他饮料制造\"},{\"code\":\"1449\",\"name\":\"其他乳制品制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "食品小作坊，是指有固定生产加工场所，从业人员较少，生产加工规模小，生产条件简单，从事食品生产加工活动的生产者。",
+    "gbName": "15酒、饮料和精制茶制造业；131谷物磨制；133植物油加工；134制糖业；136水产品加工；137蔬菜、菌类、水果和坚果加工；141焙烤食品制造；142糖果、巧克力及蜜饯制造；143方便食品制造；144乳制品制造；145罐头食品制造；146调味品、发酵制品制造；1353肉制品及副产品加工",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "禁止在下列地点新设可能产生油烟、噪声污染的餐饮业项目：（一）住宅楼；（二）距离住宅楼10米以内的建筑物；（三）未设餐饮业专用烟道的建筑物；（四）与居住层相邻的商住综合楼楼层；（五）市人民政府明令禁止设立餐饮业的其他地点。;在饮用水水源一级保护区内禁止从事餐饮、旅游、娱乐、运动等生产经营活动；在饮用水水源二级保护区内禁止新建餐饮、旅游及其他污染水源的生产经营项目。;公园内不得规划建设餐厅、酒吧、歌舞厅、夜总会、宾馆、酒店、会所等商业经营设施，以及有碍景观或者与公园功能无关的建筑物、构筑物和其他设施。;禁止在公园内新建餐饮类临时建筑。现有已审批的餐饮类临时建筑，不得办理延期审批，在原批准的使用期限届满后三十日内应当自行拆除。",
+    "highlight": {
+      "standardItem": ["<b style='color: #1890ff'>食品</b>小作坊经营"]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C2010",
+    "approvalList": [
+      {
+        "reformMeasure": "1.实现申请、审批全程网上办理。2.新证提交材料中在线获取营业执照和本市居民身份证，保障食品安全的规章制度简化为制度清单；延续、依申请变更和补正提交材料中在线获取本市居民身份证；依申请注销提交材料中不再要求申请人提交营业执照等材料。3.压缩审批时限。新办、需要现场核查的延续和需要现场核查的依申请变更，审批时限由20个工作日压减至15个工作日；仅变更食品生产许可生产者名称、社会信用代码或者法定代表人、负责人的，由20个工作日压减至1个工作日；补证、注销由20个工作日压减至1个工作日。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "4",
+        "notificationMethodCode": "4",
+        "licenseName": "食品生产加工小作坊准许生产证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [],
+        "reformMode": "优化审批服务",
+        "aName": "食品生产加工小作坊准许生产证核发",
+        "aCode": "31000031003",
+        "approvalLevel": "区市场监管部门",
+        "aId": "fe6facfb726411eaa2dface2d34d3c0a",
+        "licences": []
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "食品小作坊经营",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "a4a568",
+    "scopeId": "c6ff852322644a75be2e26588805f425",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"519\",\"name\":\"其他批发业\"},{\"code\":\"5192\",\"name\":\"宠物食品用品批发\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事宠物食品用品批发的活动。",
+    "gbName": "5192宠物食品用品批发",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["宠物<b style='color: #1890ff'>食品</b>及用品批发"],
+      "includedItemsIk": [
+        "宠物<b style='color: #1890ff'>食品</b>用品；宠物犬<b style='color: #1890ff'>食品</b>；宠物犬用品；宠物猫<b style='color: #1890ff'>食品</b>；宠物猫用品；观赏鱼食；观赏鱼用品"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F1197",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "宠物食品及用品批发",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "f4589a",
+    "scopeId": "08cc6b3f2819421e8860d346bade88d2",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"522\",\"name\":\"食品、饮料及烟草制品专门零售\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"512\",\"name\":\"食品、饮料及烟草制品批发\"},{\"code\":\"5126\",\"name\":\"营养和保健品批发\"},{\"code\":\"5225\",\"name\":\"营养和保健品零售\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"52\",\"name\":\"零售业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《食品经营许可管理办法》，从事保健食品销售的活动。",
+    "gbName": "5126营养和保健品批发；5225营养和保健品零售",
+    "permitExplain": "",
+    "entType": "1;2;3;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["保健<b style='color: #1890ff'>食品</b>（预包装）销售"],
+      "includedItemsIk": [
+        "保健<b style='color: #1890ff'>食品</b>（预包装）销售；片剂；粉剂；颗粒剂；茶剂；硬胶囊剂；软胶囊剂；口服液；丸剂"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 4,
+    "scopeCode": "F1201",
+    "approvalList": [
+      {
+        "reformMeasure": "1.对仅销售预包装食品的企业，取消食品经营许可，改为备案管理。2.将“食品经营备案（仅销售预包装食品）”纳入“多证合一”范围，在企业登记注册环节一并办理备案手续。主要理由：1.该项改革举措已在自贸试验区试点，试点期间备案企业数量为“证照分离”改革试点全部改革事项之最，企业反响良好，具备向全国复制推广的条件。2.预包装食品是预先定量包装或制作在一定的包装材料或容器中的食品，出厂时已印制生产日期和保质期标识，经营环节一般不改变预包装形态，消费者通过生产日期和保质期标识可以有效识别风险，因此可以放宽对经营企业的准入管理。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "6",
+        "notificationMethodCode": "4",
+        "licenseName": "仅销售预包装食品备案文件",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "多证合一",
+        "aName": "食品经营许可（仅销售预包装食品）",
+        "aCode": "31000053571",
+        "notificationMethod": "其他",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "dab562357b6d6c6218ac1bd3487fcedd",
+        "licences": [
+          {
+            "code": "1000000156",
+            "name": "仅销售预包装食品备案文件"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "保健食品（预包装）销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "84830b",
+    "scopeId": "fa5f3dfd4b3fdd383ea86361e185b7a0",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5272\",\"name\":\"日用家电零售\"},{\"code\":\"5199\",\"name\":\"其他未列明批发业\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"527\",\"name\":\"家用电器及电子产品专门零售\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"52\",\"name\":\"零售业\"},{\"code\":\"519\",\"name\":\"其他批发业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "gbName": "5272日用家电零售；5199其他未列明批发业",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["电热<b style='color: #1890ff'>食品</b>加工设备销售"],
+      "includedItemsIk": [
+        "电烤箱；电炉灶；电磁灶；工业电烤炉；隧道炉；热风炉；摇篮炉；旋转炉；旋转热风炉；电力<b style='color: #1890ff'>食品</b>烘箱",
+        "；榨汁机（家用）；豆浆机；<b style='color: #1890ff'>食品</b>研磨机；电动绞肉机；咖啡研磨机；瓜果电动削皮机及类似机械"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F2089",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "电热食品加工设备销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "44a11b",
+    "scopeId": "5565d985f1874ba59c78a86db8f21a36",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"14\",\"name\":\"食品制造业\"},{\"code\":\"149\",\"name\":\"其他食品制造\"},{\"code\":\"1495\",\"name\":\"食品及饲料添加剂制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国食品安全法》，从事增加或改善食品特色的化学品的生产活动。",
+    "gbName": "1495食品及饲料添加剂制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["<b style='color: #1890ff'>食品</b>添加剂生产"],
+      "includedItemsIk": [
+        "<b style='color: #1890ff'>食品</b>用山梨醇、<b style='color: #1890ff'>食品</b>用甘露糖醇、<b style='color: #1890ff'>食品</b>用丙三醇、<b style='color: #1890ff'>食品</b>用木糖醇、<b style='color: #1890ff'>食品</b>用麦芽糖醇其他<b style='color: #1890ff'>食品</b>用糖醇",
+        "；<b style='color: #1890ff'>食品</b>用碳酸钠；<b style='color: #1890ff'>食品</b>抗结剂；<b style='color: #1890ff'>食品</b>消泡剂；<b style='color: #1890ff'>食品</b>用漂白剂；<b style='color: #1890ff'>食品</b>用硫磺；<b style='color: #1890ff'>食品</b>用膨松剂；<b style='color: #1890ff'>食品</b>用胶母糖基础剂"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C2005",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "食品添加剂生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "54c1b8",
+    "scopeId": "0ccb0b98dc2742c6b6b4ca6fc5b68c1f",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"26\",\"name\":\"化学原料和化学制品制造业\"},{\"code\":\"268\",\"name\":\"日用化学产品制造\"},{\"code\":\"2681\",\"name\":\"肥皂及洗涤剂制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《食品相关产品生产许可实施细则》，从事用于洗涤和清洁食品、餐饮具以及接触食品的工具和设备、容器和食品包装材料的物质的生产活动。",
+    "gbName": "2681肥皂及洗涤剂制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["<b style='color: #1890ff'>食品</b>用洗涤剂生产"],
+      "includedItemsIk": [
+        "<b style='color: #1890ff'>食品</b>用洗涤剂；手洗餐具用洗涤剂；机洗餐具用洗涤剂；<b style='color: #1890ff'>食品</b>工业用（含复合主剂）洗涤剂；"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW004",
+    "approvalList": [
+      {
+        "reformMeasure": "制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（食品相关产品、化肥）生产许可证核发",
+        "aCode": "31000053494",
+        "notificationMethod": "双告知",
+        "approvalLevel": "省级市场监管部门",
+        "aId": "29e45907e540c6fcb6f2bfd14ba517b3",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "食品用洗涤剂生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "44100a",
+    "scopeId": "d690cad5bf824fc3b3a60af8e24cf893",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"385\",\"name\":\"家用电力器具制造\"},{\"code\":\"353\",\"name\":\"食品、饮料、烟草及饲料生产专用设备制造\"},{\"code\":\"35\",\"name\":\"专用设备制造业\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"38\",\"name\":\"电气机械和器材制造业\"},{\"code\":\"3532\",\"name\":\"农副食品加工专用设备制造\"},{\"code\":\"3531\",\"name\":\"食品、酒、饮料及茶生产专用设备制造\"},{\"code\":\"3854\",\"name\":\"家用厨房电器具制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《食品相关产品生产许可实施细则》，从事以电作为加热能源的工业和商业用食品加工或饮食加工器具，包括商用电热设备和工业电烤炉生产的活动。",
+    "gbName": "3854家用厨房电器具制造；3531食品、酒、饮料及茶生产专用设备制造；3532农副食品加工专用设备制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["电热<b style='color: #1890ff'>食品</b>加工设备生产"]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW013",
+    "approvalList": [
+      {
+        "reformMeasure": "制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（食品相关产品、化肥）生产许可证核发",
+        "aCode": "31000053494",
+        "notificationMethod": "双告知",
+        "approvalLevel": "省级市场监管部门",
+        "aId": "29e45907e540c6fcb6f2bfd14ba517b3",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "电热食品加工设备生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "f41dda",
+    "scopeId": "9a5937935730412691e45c57ce7d9e7b",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5297\",\"name\":\"宠物食品用品零售\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"529\",\"name\":\"货摊、无店铺及其他零售业\"},{\"code\":\"52\",\"name\":\"零售业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事宠物食品用品零售的活动。",
+    "gbName": "5297宠物食品用品零售",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["宠物<b style='color: #1890ff'>食品</b>及用品零售"],
+      "includedItemsIk": [
+        "宠物<b style='color: #1890ff'>食品</b>用品；宠物犬<b style='color: #1890ff'>食品</b>；宠物犬用品；宠物猫<b style='color: #1890ff'>食品</b>；宠物猫用品；观赏鱼食；观赏鱼用品"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F2057",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "宠物食品及用品零售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "b47d58",
+    "scopeId": "32c2b9468bafeb3ef58510fe2b1f66a3",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5221\",\"name\":\"粮油零售\"},{\"code\":\"522\",\"name\":\"食品、饮料及烟草制品专门零售\"},{\"code\":\"5222\",\"name\":\"糕点、面包零售\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"5223\",\"name\":\"果品、蔬菜零售\"},{\"code\":\"5224\",\"name\":\"肉、禽、蛋、奶及水产品零售\"},{\"code\":\"5225\",\"name\":\"营养和保健品零售\"},{\"code\":\"5226\",\"name\":\"酒、饮料及茶叶零售\"},{\"code\":\"5229\",\"name\":\"其他食品零售\"},{\"code\":\"52\",\"name\":\"零售业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "利用互联网销售预包装食品、散装食品、其他食品",
+    "gbName": "5221粮油零售；5222糕点、面包零售；5223果品、蔬菜零售；5224肉、禽、蛋、奶及水产品零售；5225营养和保健品零售；5226酒、饮料及茶叶零售；5229其他食品零售",
+    "permitExplain": "",
+    "entType": "1;2;3;4;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["<b style='color: #1890ff'>食品</b>互联网销售"],
+      "includedItemsIk": [
+        "预包装<b style='color: #1890ff'>食品</b>；散装<b style='color: #1890ff'>食品</b>；食用油；花生油；菜子油；芝麻油；动物食用油；其他食用油；方便<b style='color: #1890ff'>食品</b>",
+        "；中式糕点；西式糕点；面包；饼干；曲奇；膨化<b style='color: #1890ff'>食品</b>；果糖、巧克力；果糖；巧克力；蜜饯<b style='color: #1890ff'>食品</b>"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "F3002",
+    "approvalList": [
+      {
+        "reformMeasure": "1.对经营条件未发生变化的企业申请变更、延续许可，实行告知承诺。制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。2.餐饮服务经营者销售预包装食品的，不需要申请在许可证上标注销售类食品经营项目。3.不再要求申请人提供营业执照复印件。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "食品经营许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "食品经营许可（除仅销售预包装食品外）",
+        "aCode": "31000053491",
+        "notificationMethod": "双告知",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "4882eb2404412c27f0ec6dc182321c62",
+        "licences": [
+          {
+            "code": "1000000157",
+            "name": "食品经营许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "食品互联网销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "7480d8",
+    "scopeId": "4229f87deb7c84a55d1fe5b42edc0e0a",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"512\",\"name\":\"食品、饮料及烟草制品批发\"},{\"code\":\"5129\",\"name\":\"其他食品批发\"},{\"code\":\"51\",\"name\":\"批发业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "gbName": "5129其他食品批发",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["<b style='color: #1890ff'>食品</b>添加剂销售"],
+      "includedItemsIk": [
+        "<b style='color: #1890ff'>食品</b>用山梨醇、<b style='color: #1890ff'>食品</b>用甘露糖醇、<b style='color: #1890ff'>食品</b>用丙三醇、<b style='color: #1890ff'>食品</b>用木糖醇、<b style='color: #1890ff'>食品</b>用麦芽糖醇其他<b style='color: #1890ff'>食品</b>用糖醇",
+        "；<b style='color: #1890ff'>食品</b>用碳酸钠；<b style='color: #1890ff'>食品</b>抗结剂；<b style='color: #1890ff'>食品</b>消泡剂；<b style='color: #1890ff'>食品</b>用漂白剂；<b style='color: #1890ff'>食品</b>用硫磺；<b style='color: #1890ff'>食品</b>用膨松剂；<b style='color: #1890ff'>食品</b>用胶母糖基础剂"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F3009",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "食品添加剂销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "f4cb08",
+    "scopeId": "62d883d7f9b89903217c8045ed0be3e2",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5199\",\"name\":\"其他未列明批发业\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"523\",\"name\":\"纺织、服装及日用品专门零售\"},{\"code\":\"5239\",\"name\":\"其他日用品零售\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"5191\",\"name\":\"再生物资回收与批发\"},{\"code\":\"52\",\"name\":\"零售业\"},{\"code\":\"519\",\"name\":\"其他批发业\"},{\"code\":\"5192\",\"name\":\"宠物食品用品批发\"},{\"code\":\"5193\",\"name\":\"互联网批发\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "从事用于洗涤和清洁食品、餐饮具以及接触食品的工具和设备、容器和食品包装材料的物质的批发和零售。",
+    "gbName": "519其他批发业；5239其他日用品零售",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["<b style='color: #1890ff'>食品</b>用洗涤剂销售"],
+      "includedItemsIk": [
+        "<b style='color: #1890ff'>食品</b>用洗涤剂；手洗餐具用洗涤剂；机洗餐具用洗涤剂；<b style='color: #1890ff'>食品</b>工业用（含复合主剂）洗涤剂餐具洗涤剂"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F3262",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "食品用洗涤剂销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "e48509",
+    "scopeId": "fd2f94abd560479ebf389538978e1c9f",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"14\",\"name\":\"食品制造业\"},{\"code\":\"149\",\"name\":\"其他食品制造\"},{\"code\":\"1492\",\"name\":\"保健食品制造\"},{\"code\":\"1491\",\"name\":\"营养食品制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事特殊医学用途配方食品生产的活动。",
+    "gbName": "1491营养食品制造；1492保健食品制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": [
+        "特殊医学用途配方<b style='color: #1890ff'>食品</b>生产"
+      ],
+      "includedItemsIk": [
+        "全营养配方<b style='color: #1890ff'>食品</b>；特定全营养配方<b style='color: #1890ff'>食品</b>；糖尿病全营养配方<b style='color: #1890ff'>食品</b>；呼吸系统病全营养配方<b style='color: #1890ff'>食品</b>",
+        "；肾病全营养配方<b style='color: #1890ff'>食品</b>；肿瘤全营养配方<b style='color: #1890ff'>食品</b>；肝病全营养配方<b style='color: #1890ff'>食品</b>；肌肉衰减综合征全营养配方<b style='color: #1890ff'>食品</b>"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C2009",
+    "approvalList": [
+      {
+        "reformMeasure": "取消对出口食品生产企业的许可准入管理，改为备案管理。主要理由：1.2020年8月26日，国务院第105次常务会议已审议通过取消该项许可，改为备案管理。2.根据食品安全法和我国签署的有关双边、多边协定规定，我国食品生产企业向外国出口食品，需要先向我国海关进行备案，我国海关将备案信息推送至目的地国指定主管部门，由该国指定主管部门对我国提出申请的食品生产企业进行审查，审查通过后方可向该国出口食品产品。因此，我国海关实施的备案管理，不具有正式法律效力，主要是我国政府为企业提供的一项公共服务，没有必要再保留许可。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";8;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "海关部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "出口食品生产企业备案证明",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "111000000024032689",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "88ad7c20f63a64df142087a6715be02f",
+            "depLevel": "prefecture",
+            "depName": "上海海关"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "出口食品生产企业备案核准",
+        "aCode": "31000053570",
+        "notificationMethod": "其他",
+        "approvalLevel": "主管海关",
+        "aId": "4ac50226ae01f5a92abc27be1df7eac2",
+        "licences": [
+          {
+            "code": "1000000006",
+            "name": "出口食品生产企业备案证明"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "特殊医学用途配方食品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "a4e548",
+    "scopeId": "b320e62b544e4202982a92ea66fb31e3",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"522\",\"name\":\"食品、饮料及烟草制品专门零售\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"512\",\"name\":\"食品、饮料及烟草制品批发\"},{\"code\":\"5129\",\"name\":\"其他食品批发\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"5229\",\"name\":\"其他食品零售\"},{\"code\":\"52\",\"name\":\"零售业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《食品经营许可管理办法》，从事特殊医学用途配方食品销售的活动。",
+    "gbName": "5129其他食品批发；5229其他食品零售",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": [
+        "特殊医学用途配方<b style='color: #1890ff'>食品</b>销售"
+      ],
+      "includedItemsIk": [
+        "全营养配方<b style='color: #1890ff'>食品</b>；特定全营养配方<b style='color: #1890ff'>食品</b>；糖尿病全营养配方<b style='color: #1890ff'>食品</b>；呼吸系统病全营养配方<b style='color: #1890ff'>食品</b>",
+        "；肾病全营养配方<b style='color: #1890ff'>食品</b>；肿瘤全营养配方<b style='color: #1890ff'>食品</b>；肝病全营养配方<b style='color: #1890ff'>食品</b>；肌肉衰减综合征全营养配方<b style='color: #1890ff'>食品</b>"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 4,
+    "scopeCode": "F1203",
+    "approvalList": [
+      {
+        "reformMeasure": "1.对仅销售预包装食品的企业，取消食品经营许可，改为备案管理。2.将“食品经营备案（仅销售预包装食品）”纳入“多证合一”范围，在企业登记注册环节一并办理备案手续。主要理由：1.该项改革举措已在自贸试验区试点，试点期间备案企业数量为“证照分离”改革试点全部改革事项之最，企业反响良好，具备向全国复制推广的条件。2.预包装食品是预先定量包装或制作在一定的包装材料或容器中的食品，出厂时已印制生产日期和保质期标识，经营环节一般不改变预包装形态，消费者通过生产日期和保质期标识可以有效识别风险，因此可以放宽对经营企业的准入管理。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "6",
+        "notificationMethodCode": "4",
+        "licenseName": "仅销售预包装食品备案文件",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "多证合一",
+        "aName": "食品经营许可（仅销售预包装食品）",
+        "aCode": "31000053571",
+        "notificationMethod": "其他",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "dab562357b6d6c6218ac1bd3487fcedd",
+        "licences": [
+          {
+            "code": "1000000156",
+            "name": "仅销售预包装食品备案文件"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "特殊医学用途配方食品销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "f4b218",
+    "scopeId": "a3ebe0562c5c4721bab9103921296257",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"1462\",\"name\":\"酱油、食醋及类似制品制造\"},{\"code\":\"1340\",\"name\":\"制糖业\"},{\"code\":\"1461\",\"name\":\"味精制造\"},{\"code\":\"151\",\"name\":\"酒的制造\"},{\"code\":\"152\",\"name\":\"饮料制造\"},{\"code\":\"153\",\"name\":\"精制茶加工\"},{\"code\":\"1459\",\"name\":\"其他罐头食品制造\"},{\"code\":\"1411\",\"name\":\"糕点、面包制造\"},{\"code\":\"1499\",\"name\":\"其他未列明食品制造\"},{\"code\":\"1453\",\"name\":\"蔬菜、水果罐头制造\"},{\"code\":\"1530\",\"name\":\"精制茶加工\"},{\"code\":\"1331\",\"name\":\"食用植物油加工\"},{\"code\":\"1452\",\"name\":\"水产品罐头制造\"},{\"code\":\"1419\",\"name\":\"饼干及其他焙烤食品制造\"},{\"code\":\"13\",\"name\":\"农副食品加工业\"},{\"code\":\"14\",\"name\":\"食品制造业\"},{\"code\":\"15\",\"name\":\"酒、饮料和精制茶制造业\"},{\"code\":\"1393\",\"name\":\"蛋品加工\"},{\"code\":\"1392\",\"name\":\"豆制品制造\"},{\"code\":\"1391\",\"name\":\"淀粉及淀粉制品制造\"},{\"code\":\"1469\",\"name\":\"其他调味品、发酵制品制造\"},{\"code\":\"1422\",\"name\":\"蜜饯制作\"},{\"code\":\"1421\",\"name\":\"糖果、巧克力制造\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"1363\",\"name\":\"鱼油提取及制品制造\"},{\"code\":\"1362\",\"name\":\"鱼糜制品及水产品干腌制加工\"},{\"code\":\"1514\",\"name\":\"黄酒制造\"},{\"code\":\"133\",\"name\":\"植物油加工\"},{\"code\":\"1513\",\"name\":\"啤酒制造\"},{\"code\":\"134\",\"name\":\"制糖业\"},{\"code\":\"1512\",\"name\":\"白酒制造\"},{\"code\":\"135\",\"name\":\"屠宰及肉类加工\"},{\"code\":\"1511\",\"name\":\"酒精制造\"},{\"code\":\"136\",\"name\":\"水产品加工\"},{\"code\":\"1433\",\"name\":\"方便面制造\"},{\"code\":\"137\",\"name\":\"蔬菜、菌类、水果和坚果加工\"},{\"code\":\"1399\",\"name\":\"其他未列明农副食品加工\"},{\"code\":\"1432\",\"name\":\"速冻食品制造\"},{\"code\":\"1431\",\"name\":\"米、面制品制造\"},{\"code\":\"139\",\"name\":\"其他农副食品加工\"},{\"code\":\"1353\",\"name\":\"肉制品及副产品加工\"},{\"code\":\"1519\",\"name\":\"其他酒制造\"},{\"code\":\"1439\",\"name\":\"其他方便食品制造\"},{\"code\":\"1515\",\"name\":\"葡萄酒制造\"},{\"code\":\"1451\",\"name\":\"肉、禽类罐头制造\"},{\"code\":\"1373\",\"name\":\"水果和坚果加工\"},{\"code\":\"1372\",\"name\":\"食用菌加工\"},{\"code\":\"1493\",\"name\":\"冷冻饮品及食用冰制造\"},{\"code\":\"1371\",\"name\":\"蔬菜加工\"},{\"code\":\"1492\",\"name\":\"保健食品制造\"},{\"code\":\"1491\",\"name\":\"营养食品制造\"},{\"code\":\"141\",\"name\":\"焙烤食品制造\"},{\"code\":\"142\",\"name\":\"糖果、巧克力及蜜饯制造\"},{\"code\":\"143\",\"name\":\"方便食品制造\"},{\"code\":\"1525\",\"name\":\"固体饮料制造\"},{\"code\":\"144\",\"name\":\"乳制品制造\"},{\"code\":\"1524\",\"name\":\"含乳饮料和植物蛋白饮料制造\"},{\"code\":\"145\",\"name\":\"罐头食品制造\"},{\"code\":\"1369\",\"name\":\"其他水产品加工\"},{\"code\":\"1523\",\"name\":\"果菜汁及果菜汁饮料制造\"},{\"code\":\"146\",\"name\":\"调味品、发酵制品制造\"},{\"code\":\"1522\",\"name\":\"瓶（罐）装饮用水制造\"},{\"code\":\"1521\",\"name\":\"碳酸饮料制造\"},{\"code\":\"149\",\"name\":\"其他食品制造\"},{\"code\":\"1442\",\"name\":\"乳粉制造\"},{\"code\":\"1441\",\"name\":\"液体乳制造\"},{\"code\":\"1529\",\"name\":\"茶饮料及其他饮料制造\"},{\"code\":\"1449\",\"name\":\"其他乳制品制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国食品安全法》，从事粮食加工食品生产的活动。",
+    "gbName": "1331食用植物油加工；1340制糖业；1353肉制品及副产品加工；1362鱼糜制品及水产品干腌制加工；1363鱼油提取及制品制造；1369其他水产品加工；137蔬菜、菌类、水果和坚果加工；1391淀粉及淀粉制品制造；1392豆制品制造；1393蛋品加工；1399其他未列明农副食品加工；141焙烤食品制造；142糖果、巧克力及蜜饯制造；143方便食品制造；144乳制品制造；145罐头食品制造；146调味品、发酵制品制造；1491营养食品制造；1492保健食品制造；1493冷冻饮品及食用冰制造；1499其他未列明食品制造；15酒、饮料和精制茶制造业",
+    "permitExplain": "",
+    "entType": "1;2;3;4",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["粮食加工<b style='color: #1890ff'>食品</b>生产"]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C1006",
+    "approvalList": [
+      {
+        "reformMeasure": "取消对出口食品生产企业的许可准入管理，改为备案管理。主要理由：1.2020年8月26日，国务院第105次常务会议已审议通过取消该项许可，改为备案管理。2.根据食品安全法和我国签署的有关双边、多边协定规定，我国食品生产企业向外国出口食品，需要先向我国海关进行备案，我国海关将备案信息推送至目的地国指定主管部门，由该国指定主管部门对我国提出申请的食品生产企业进行审查，审查通过后方可向该国出口食品产品。因此，我国海关实施的备案管理，不具有正式法律效力，主要是我国政府为企业提供的一项公共服务，没有必要再保留许可。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";8;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "海关部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "出口食品生产企业备案证明",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "111000000024032689",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "88ad7c20f63a64df142087a6715be02f",
+            "depLevel": "prefecture",
+            "depName": "上海海关"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "出口食品生产企业备案核准",
+        "aCode": "31000053570",
+        "notificationMethod": "其他",
+        "approvalLevel": "主管海关",
+        "aId": "4ac50226ae01f5a92abc27be1df7eac2",
+        "licences": [
+          {
+            "code": "1000000006",
+            "name": "出口食品生产企业备案证明"
+          }
+        ]
+      },
+      {
+        "reformMeasure": "1.对低风险食品生产许可，实行告知承诺。制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。2.除特殊食品（包括保健食品、婴幼儿配方食品和特殊医学用途配方食品）、婴幼儿辅助食品、食盐外，将审批权限由省级市场监管部门下放至设区的市、县级市场监管部门。3.实现申请、审批全程网上办理。4.不再要求申请人提供营业执照、食品安全管理制度文本等材料，但申请特殊食品生产许可的应提交与所生产食品相适应的生产质量管理体系文件。5.申请人不采取告知承诺审批方式的，将审批时限由20个工作日压减至10个工作日。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "食品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "食品（含食品添加剂）生产许可",
+        "aCode": "31000053490",
+        "notificationMethod": "双告知",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "ef1930d98faaf3cbebb82f019edc1a97",
+        "licences": [
+          {
+            "code": "1000000484",
+            "name": "食品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "粮食加工食品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "34f8c9",
+    "scopeId": "030a18e4175f4149bf2026b427d45c19",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"14\",\"name\":\"食品制造业\"},{\"code\":\"149\",\"name\":\"其他食品制造\"},{\"code\":\"1492\",\"name\":\"保健食品制造\"},{\"code\":\"1491\",\"name\":\"营养食品制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国食品安全法》，从事婴幼儿配方食品生产的活动。",
+    "gbName": "1491营养食品制造；1492保健食品制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["婴幼儿配方<b style='color: #1890ff'>食品</b>生产"],
+      "includedItemsIk": [
+        "婴儿配方乳粉；较大婴儿配方乳粉；幼儿配方乳粉；婴幼儿谷类辅助<b style='color: #1890ff'>食品</b>；婴幼儿谷物辅助<b style='color: #1890ff'>食品</b>",
+        "；婴幼儿生制类谷物辅助<b style='color: #1890ff'>食品</b>；婴幼儿面条；婴幼儿颗粒面；婴幼儿饼干或其他婴幼儿谷物辅助<b style='color: #1890ff'>食品</b>"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C2004",
+    "approvalList": [
+      {
+        "reformMeasure": "取消对出口食品生产企业的许可准入管理，改为备案管理。主要理由：1.2020年8月26日，国务院第105次常务会议已审议通过取消该项许可，改为备案管理。2.根据食品安全法和我国签署的有关双边、多边协定规定，我国食品生产企业向外国出口食品，需要先向我国海关进行备案，我国海关将备案信息推送至目的地国指定主管部门，由该国指定主管部门对我国提出申请的食品生产企业进行审查，审查通过后方可向该国出口食品产品。因此，我国海关实施的备案管理，不具有正式法律效力，主要是我国政府为企业提供的一项公共服务，没有必要再保留许可。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";8;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "海关部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "出口食品生产企业备案证明",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "111000000024032689",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "88ad7c20f63a64df142087a6715be02f",
+            "depLevel": "prefecture",
+            "depName": "上海海关"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "出口食品生产企业备案核准",
+        "aCode": "31000053570",
+        "notificationMethod": "其他",
+        "approvalLevel": "主管海关",
+        "aId": "4ac50226ae01f5a92abc27be1df7eac2",
+        "licences": [
+          {
+            "code": "1000000006",
+            "name": "出口食品生产企业备案证明"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "婴幼儿配方食品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "b469d8",
+    "scopeId": "2b2b7119ad1b4364ac3f921105c7356a",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"22\",\"name\":\"造纸和纸制品业\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"223\",\"name\":\"纸制品制造\"},{\"code\":\"2231\",\"name\":\"纸和纸板容器制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《食品相关产品生产许可实施细则》，从事包装、盛放食品或者食品添加剂的纸制品和复合纸制品以及食品或者食品添加剂生产、销售过程中直接接触食品或者食品添加剂的纸容器、用具、餐具等制品生产的活动。",
+    "gbName": "2231纸和纸板容器制造",
+    "permitExplain": "",
+    "entType": "1;2",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": [
+        "<b style='color: #1890ff'>食品</b>用纸包装、容器制品生产"
+      ],
+      "includedItemsIk": [
+        "<b style='color: #1890ff'>食品</b>用纸包装；非热封型茶叶滤纸；热封型茶叶滤纸；鸡皮纸；<b style='color: #1890ff'>食品</b>包装用羊皮纸；半透明纸",
+        "；精细过滤纸板；支撑过滤纸板；固体<b style='color: #1890ff'>食品</b>包装用纸板；液体<b style='color: #1890ff'>食品</b>包装纸板；特定<b style='color: #1890ff'>食品</b>包装用纸和纸板和纸板"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW015",
+    "approvalList": [
+      {
+        "reformMeasure": "制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（食品相关产品、化肥）生产许可证核发",
+        "aCode": "31000053494",
+        "notificationMethod": "双告知",
+        "approvalLevel": "省级市场监管部门",
+        "aId": "29e45907e540c6fcb6f2bfd14ba517b3",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "食品用纸包装、容器制品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "74aeab",
+    "scopeId": "07275a28faf2436782b22d2642c26a2c",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"29\",\"name\":\"橡胶和塑料制品业\"},{\"code\":\"292\",\"name\":\"塑料制品业\"},{\"code\":\"2927\",\"name\":\"日用塑料制品制造\"},{\"code\":\"2926\",\"name\":\"塑料包装箱及容器制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《食品相关产品生产许可实施细则》，从事食品用塑料包装容器工具制品生产的活动。",
+    "gbName": "2926塑料包装箱及容器制造；2927日用塑料制品制造",
+    "permitExplain": "",
+    "entType": "1;2",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": [
+        "<b style='color: #1890ff'>食品</b>用塑料包装容器工具制品生产"
+      ],
+      "includedItemsIk": [
+        "）复合膜、袋；榨菜包装用复合膜、袋；液体<b style='color: #1890ff'>食品</b>无菌包装用纸基复合材料；液体<b style='color: #1890ff'>食品</b>无菌包装用复合袋",
+        "；液体<b style='color: #1890ff'>食品</b>保鲜包装用纸基复合材料；液体<b style='color: #1890ff'>食品</b>包装用塑料复合膜、袋；包装用多层共挤阻隔膜"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW016",
+    "approvalList": [
+      {
+        "reformMeasure": "制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（食品相关产品、化肥）生产许可证核发",
+        "aCode": "31000053494",
+        "notificationMethod": "双告知",
+        "approvalLevel": "省级市场监管部门",
+        "aId": "29e45907e540c6fcb6f2bfd14ba517b3",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "食品用塑料包装容器工具制品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "e4760a",
+    "scopeId": "9b13d923d51fb0041c17b54d6c7da9cd",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5199\",\"name\":\"其他未列明批发业\"},{\"code\":\"5299\",\"name\":\"其他未列明零售业\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"5169\",\"name\":\"其他化工产品批发\"},{\"code\":\"516\",\"name\":\"矿产品、建材及化工产品批发\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"529\",\"name\":\"货摊、无店铺及其他零售业\"},{\"code\":\"52\",\"name\":\"零售业\"},{\"code\":\"519\",\"name\":\"其他批发业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "gbName": "5199其他未列明批发业；5169其他化工产品批发；5299其他未列明零售业；",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": [
+        "<b style='color: #1890ff'>食品</b>用塑料包装容器工具制品销售"
+      ],
+      "includedItemsIk": [
+        "）复合膜、袋；榨菜包装用复合膜、袋；液体<b style='color: #1890ff'>食品</b>无菌包装用纸基复合材料；液体<b style='color: #1890ff'>食品</b>无菌包装用复合袋",
+        "；液体<b style='color: #1890ff'>食品</b>保鲜包装用纸基复合材料；液体<b style='color: #1890ff'>食品</b>包装用塑料复合膜、袋；包装用多层共挤阻隔膜"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F3276",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "食品用塑料包装容器工具制品销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "d46e79",
+    "scopeId": "a2b42d51f74a4aca80aae0a991138755",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"H\",\"name\":\"住宿和餐饮业\"},{\"code\":\"62\",\"name\":\"餐饮业\"},{\"code\":\"629\",\"name\":\"其他餐饮业\"},{\"code\":\"6291\",\"name\":\"小吃服务\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国食品安全法》，按照地方法规规定，从事小餐饮、小食杂、食品小作坊经营的活动。",
+    "gbName": "6291小吃服务",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "禁止在下列地点新设可能产生油烟、噪声污染的餐饮业项目：（一）住宅楼；（二）距离住宅楼10米以内的建筑物；（三）未设餐饮业专用烟道的建筑物；（四）与居住层相邻的商住综合楼楼层；（五）市人民政府明令禁止设立餐饮业的其他地点。;在饮用水水源一级保护区内禁止从事餐饮、旅游、娱乐、运动等生产经营活动；在饮用水水源二级保护区内禁止新建餐饮、旅游及其他污染水源的生产经营项目。;公园内不得规划建设餐厅、酒吧、歌舞厅、夜总会、宾馆、酒店、会所等商业经营设施，以及有碍景观或者与公园功能无关的建筑物、构筑物和其他设施。;禁止在公园内新建餐饮类临时建筑。现有已审批的餐饮类临时建筑，不得办理延期审批，在原批准的使用期限届满后三十日内应当自行拆除。",
+    "highlight": {
+      "standardItem": [
+        "小餐饮、小食杂、<b style='color: #1890ff'>食品</b>小作坊经营"
+      ],
+      "includedItemsIk": [
+        "如饺子、包子、面条、米粉等）；各种特色小吃的餐饮服务（如清真小吃、四川小吃等）；<b style='color: #1890ff'>食品</b>小作坊",
+        "）；生食类<b style='color: #1890ff'>食品</b>制售；冷食类<b style='color: #1890ff'>食品</b>制售；热食类<b style='color: #1890ff'>食品</b>制售"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "H2003",
+    "approvalList": [
+      {
+        "reformMeasure": "1.实现申请、审批全程网上办理。2.新证提交材料中在线获取营业执照和本市居民身份证，保障食品安全的规章制度简化为制度清单；延续、依申请变更和补正提交材料中在线获取本市居民身份证；依申请注销提交材料中不再要求申请人提交营业执照等材料。3.压缩审批时限。新办、需要现场核查的延续和需要现场核查的依申请变更，审批时限由20个工作日压减至15个工作日；仅变更食品生产许可生产者名称、社会信用代码或者法定代表人、负责人的，由20个工作日压减至1个工作日；补证、注销由20个工作日压减至1个工作日。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "4",
+        "notificationMethodCode": "4",
+        "licenseName": "食品生产加工小作坊准许生产证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [],
+        "reformMode": "优化审批服务",
+        "aName": "食品生产加工小作坊准许生产证核发",
+        "aCode": "31000031003",
+        "approvalLevel": "区市场监管部门",
+        "aId": "fe6facfb726411eaa2dface2d34d3c0a",
+        "licences": []
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "小餐饮、小食杂、食品小作坊经营",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "d403aa",
+    "scopeId": "50644c5e20ae47a04cc9eed5a92d2544",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5121\",\"name\":\"米、面制品及食用油批发\"},{\"code\":\"5122\",\"name\":\"糕点、糖果及糖批发\"},{\"code\":\"5221\",\"name\":\"粮油零售\"},{\"code\":\"5123\",\"name\":\"果品、蔬菜批发\"},{\"code\":\"5222\",\"name\":\"糕点、面包零售\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"5124\",\"name\":\"肉、禽、蛋、奶及水产品批发\"},{\"code\":\"5223\",\"name\":\"果品、蔬菜零售\"},{\"code\":\"5125\",\"name\":\"盐及调味品批发\"},{\"code\":\"5224\",\"name\":\"肉、禽、蛋、奶及水产品零售\"},{\"code\":\"522\",\"name\":\"食品、饮料及烟草制品专门零售\"},{\"code\":\"512\",\"name\":\"食品、饮料及烟草制品批发\"},{\"code\":\"5126\",\"name\":\"营养和保健品批发\"},{\"code\":\"5225\",\"name\":\"营养和保健品零售\"},{\"code\":\"5129\",\"name\":\"其他食品批发\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"5229\",\"name\":\"其他食品零售\"},{\"code\":\"52\",\"name\":\"零售业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "小食杂店，是指有固定经营场所，使用面积小，经营规模小，主要销售预包装食品、散装食品的副食品店、小卖部、便利店等经营者。",
+    "gbName": "5121米、面制品及食用油批发；5123果品、蔬菜批发；5124肉、禽、蛋、奶及水产品批发；5125盐及调味品批发；5126营养和保健品批发；5129其他食品批发；5122糕点、糖果及糖批发；5221粮油零售；5222糕点、面包零售；5223果品、蔬菜零售；5224肉、禽、蛋、奶及水产品零售；5225营养和保健品零售；5229其他食品零售",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "预包装<b style='color: #1890ff'>食品</b>；散装<b style='color: #1890ff'>食品</b>；副<b style='color: #1890ff'>食品</b>店；小卖部；便利店"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "F2077",
+    "approvalList": [
+      {
+        "reformMeasure": "1.实现申请、审批全程网上办理。2.新证提交材料中在线获取营业执照和本市居民身份证，保障食品安全的规章制度简化为制度清单；延续、依申请变更和补正提交材料中在线获取本市居民身份证；依申请注销提交材料中不再要求申请人提交营业执照等材料。3.压缩审批时限。新办、需要现场核查的延续和需要现场核查的依申请变更，审批时限由20个工作日压减至15个工作日；仅变更食品生产许可生产者名称、社会信用代码或者法定代表人、负责人的，由20个工作日压减至1个工作日；补证、注销由20个工作日压减至1个工作日。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "4",
+        "notificationMethodCode": "4",
+        "licenseName": "食品生产加工小作坊准许生产证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [],
+        "reformMode": "优化审批服务",
+        "aName": "食品生产加工小作坊准许生产证核发",
+        "aCode": "31000031003",
+        "approvalLevel": "区市场监管部门",
+        "aId": "fe6facfb726411eaa2dface2d34d3c0a",
+        "licences": []
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "小食杂",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "d40319",
+    "scopeId": "6f03bee29ddf40229911670f7d3ffc75",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"353\",\"name\":\"食品、饮料、烟草及饲料生产专用设备制造\"},{\"code\":\"35\",\"name\":\"专用设备制造业\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"3531\",\"name\":\"食品、酒、饮料及茶生产专用设备制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事主要用于食品、酒、饮料生产及茶制品加工等专用设备制造的活动，从事电热食品加工设备生产（CW027）的，需办理相关许可审批，并登记相关经营范围",
+    "gbName": "3531食品、酒、饮料及茶生产专用设备制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": [
+        "<b style='color: #1890ff'>食品</b>、酒、饮料及茶生产专用设备制造"
+      ],
+      "includedItemsIk": [
+        "烹煮<b style='color: #1890ff'>食品</b>设备；调制<b style='color: #1890ff'>食品</b>设备；腌制<b style='color: #1890ff'>食品</b>设备；烘炒设备；烹煮器；烹炸设备；<b style='color: #1890ff'>食品</b>工业用压热器",
+        "；<b style='color: #1890ff'>食品</b>工业用冷却器；巴氏杀菌器；<b style='color: #1890ff'>食品</b>用烤炉及烘箱；非电力<b style='color: #1890ff'>食品</b>用烤炉；非电力<b style='color: #1890ff'>食品</b>用烘箱"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "CN016",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "食品、酒、饮料及茶生产专用设备制造",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "d42a0a",
+    "scopeId": "bad24650d57f39e6d90ef83b3387bcfa",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"6210\",\"name\":\"正餐服务\"},{\"code\":\"6232\",\"name\":\"咖啡馆服务\"},{\"code\":\"6220\",\"name\":\"快餐服务\"},{\"code\":\"6231\",\"name\":\"茶馆服务\"},{\"code\":\"6233\",\"name\":\"酒吧服务\"},{\"code\":\"6299\",\"name\":\"其他未列明餐饮业\"},{\"code\":\"H\",\"name\":\"住宿和餐饮业\"},{\"code\":\"6291\",\"name\":\"小吃服务\"},{\"code\":\"621\",\"name\":\"正餐服务\"},{\"code\":\"622\",\"name\":\"快餐服务\"},{\"code\":\"623\",\"name\":\"饮料及冷饮服务\"},{\"code\":\"6239\",\"name\":\"其他饮料及冷饮服务\"},{\"code\":\"62\",\"name\":\"餐饮业\"},{\"code\":\"629\",\"name\":\"其他餐饮业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《食品安全法》、《大气污染防治法》从事蒸、煮、烫、涮和冷冻食品、凉菜加工等工艺的，不产生油烟、异味、废气的餐饮服务的活动。小餐饮、小食杂、食品小作坊经营（H2003、H2004）的具体管理办法由省、自治区、直辖市制定，是否需要许可审批依据当地规定办理。清真食品是否需要许可审批依据当地规定办理。",
+    "gbName": "621正餐服务；622快餐服务；623饮料及冷饮服务；629其他餐饮业",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "禁止在下列地点新设可能产生油烟、噪声污染的餐饮业项目：（一）住宅楼；（二）距离住宅楼10米以内的建筑物；（三）未设餐饮业专用烟道的建筑物；（四）与居住层相邻的商住综合楼楼层；（五）市人民政府明令禁止设立餐饮业的其他地点。;在饮用水水源一级保护区内禁止从事餐饮、旅游、娱乐、运动等生产经营活动；在饮用水水源二级保护区内禁止新建餐饮、旅游及其他污染水源的生产经营项目。;公园内不得规划建设餐厅、酒吧、歌舞厅、夜总会、宾馆、酒店、会所等商业经营设施，以及有碍景观或者与公园功能无关的建筑物、构筑物和其他设施。;禁止在公园内新建餐饮类临时建筑。现有已审批的餐饮类临时建筑，不得办理延期审批，在原批准的使用期限届满后三十日内应当自行拆除。",
+    "highlight": {
+      "includedItemsIk": [
+        "冷食类<b style='color: #1890ff'>食品</b>；生食类<b style='color: #1890ff'>食品</b>；糕点类<b style='color: #1890ff'>食品</b> ；自制饮品；甜品；饮品；咖啡；蒸点；面包；蛋糕"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "H2008",
+    "approvalList": [
+      {
+        "reformMeasure": "1.对经营条件未发生变化的企业申请变更、延续许可，实行告知承诺。制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。2.餐饮服务经营者销售预包装食品的，不需要申请在许可证上标注销售类食品经营项目。3.不再要求申请人提供营业执照复印件。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "食品经营许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "食品经营许可（除仅销售预包装食品外）",
+        "aCode": "31000053491",
+        "notificationMethod": "双告知",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "4882eb2404412c27f0ec6dc182321c62",
+        "licences": [
+          {
+            "code": "1000000157",
+            "name": "食品经营许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "餐饮服务（不产生油烟、异味、废气）",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "d4aee8",
+    "scopeId": "a6c19969abd94d5fb9689fdcf42cf1a7",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"6210\",\"name\":\"正餐服务\"},{\"code\":\"6232\",\"name\":\"咖啡馆服务\"},{\"code\":\"6220\",\"name\":\"快餐服务\"},{\"code\":\"6231\",\"name\":\"茶馆服务\"},{\"code\":\"6233\",\"name\":\"酒吧服务\"},{\"code\":\"6299\",\"name\":\"其他未列明餐饮业\"},{\"code\":\"H\",\"name\":\"住宿和餐饮业\"},{\"code\":\"6291\",\"name\":\"小吃服务\"},{\"code\":\"621\",\"name\":\"正餐服务\"},{\"code\":\"622\",\"name\":\"快餐服务\"},{\"code\":\"623\",\"name\":\"饮料及冷饮服务\"},{\"code\":\"6239\",\"name\":\"其他饮料及冷饮服务\"},{\"code\":\"62\",\"name\":\"餐饮业\"},{\"code\":\"629\",\"name\":\"其他餐饮业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《食品安全法》从事餐饮服务的活动。小餐饮、小食杂、食品小作坊经营（H2003、H2004）的具体管理办法由省、自治区、直辖市制定，是否需要许可审批依据当地规定办理。清真食品是否需要许可审批依据当地规定办理。",
+    "gbName": "621正餐服务；622快餐服务；623饮料及冷饮服务；629其他餐饮业",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "禁止在下列地点新设可能产生油烟、噪声污染的餐饮业项目：（一）住宅楼；（二）距离住宅楼10米以内的建筑物；（三）未设餐饮业专用烟道的建筑物；（四）与居住层相邻的商住综合楼楼层；（五）市人民政府明令禁止设立餐饮业的其他地点。;在饮用水水源一级保护区内禁止从事餐饮、旅游、娱乐、运动等生产经营活动；在饮用水水源二级保护区内禁止新建餐饮、旅游及其他污染水源的生产经营项目。;公园内不得规划建设餐厅、酒吧、歌舞厅、夜总会、宾馆、酒店、会所等商业经营设施，以及有碍景观或者与公园功能无关的建筑物、构筑物和其他设施。;禁止在公园内新建餐饮类临时建筑。现有已审批的餐饮类临时建筑，不得办理延期审批，在原批准的使用期限届满后三十日内应当自行拆除。",
+    "highlight": {
+      "includedItemsIk": [
+        "（含裱花蛋糕、不含裱花蛋糕）；生食类<b style='color: #1890ff'>食品</b>制售；冷食类<b style='color: #1890ff'>食品</b>制售；热食类<b style='color: #1890ff'>食品</b>制售；集体用餐配送",
+        "；中央厨房（指由餐饮单位建立的，具有独立场所及设施设备，集中完成<b style='color: #1890ff'>食品</b>成品或者半成品加工制作并配送的<b style='color: #1890ff'>食品</b>经营活动"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "H2002",
+    "approvalList": [
+      {
+        "reformMeasure": "1.对经营条件未发生变化的企业申请变更、延续许可，实行告知承诺。制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。2.餐饮服务经营者销售预包装食品的，不需要申请在许可证上标注销售类食品经营项目。3.不再要求申请人提供营业执照复印件。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "食品经营许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "食品经营许可（除仅销售预包装食品外）",
+        "aCode": "31000053491",
+        "notificationMethod": "双告知",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "4882eb2404412c27f0ec6dc182321c62",
+        "licences": [
+          {
+            "code": "1000000157",
+            "name": "食品经营许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "餐饮服务",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "a402cb",
+    "scopeId": "5f9f1580389d4dbea1d03bccbc05f056",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"522\",\"name\":\"食品、饮料及烟草制品专门零售\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"512\",\"name\":\"食品、饮料及烟草制品批发\"},{\"code\":\"5126\",\"name\":\"营养和保健品批发\"},{\"code\":\"5225\",\"name\":\"营养和保健品零售\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"52\",\"name\":\"零售业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《食品经营许可管理办法》，从事婴幼儿配方乳粉销售的活动。",
+    "gbName": "5126营养和保健品批发；5225营养和保健品零售",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": [
+        "婴幼儿配方乳粉及其他婴幼儿配方<b style='color: #1890ff'>食品</b>销售"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 4,
+    "scopeCode": "F1202",
+    "approvalList": [
+      {
+        "reformMeasure": "1.对仅销售预包装食品的企业，取消食品经营许可，改为备案管理。2.将“食品经营备案（仅销售预包装食品）”纳入“多证合一”范围，在企业登记注册环节一并办理备案手续。主要理由：1.该项改革举措已在自贸试验区试点，试点期间备案企业数量为“证照分离”改革试点全部改革事项之最，企业反响良好，具备向全国复制推广的条件。2.预包装食品是预先定量包装或制作在一定的包装材料或容器中的食品，出厂时已印制生产日期和保质期标识，经营环节一般不改变预包装形态，消费者通过生产日期和保质期标识可以有效识别风险，因此可以放宽对经营企业的准入管理。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "6",
+        "notificationMethodCode": "4",
+        "licenseName": "仅销售预包装食品备案文件",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "多证合一",
+        "aName": "食品经营许可（仅销售预包装食品）",
+        "aCode": "31000053571",
+        "notificationMethod": "其他",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "dab562357b6d6c6218ac1bd3487fcedd",
+        "licences": [
+          {
+            "code": "1000000156",
+            "name": "仅销售预包装食品备案文件"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "婴幼儿配方乳粉及其他婴幼儿配方食品销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "b48ffa",
+    "scopeId": "c32e670f246742608b73fead4fed3e9e",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"1469\",\"name\":\"其他调味品、发酵制品制造\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"14\",\"name\":\"食品制造业\"},{\"code\":\"146\",\"name\":\"调味品、发酵制品制造\"},{\"code\":\"1462\",\"name\":\"酱油、食醋及类似制品制造\"},{\"code\":\"1461\",\"name\":\"味精制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国食品安全法》，从事调味品生产的活动。",
+    "gbName": "146调味品、发酵制品制造",
+    "permitExplain": "",
+    "entType": "1;2;3;4",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "加碘）；风味食用盐（未加碘）；特殊工艺食用盐（加碘）；特殊工艺食用盐（未加碘）；<b style='color: #1890ff'>食品</b>生产加工用盐"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C2001",
+    "approvalList": [
+      {
+        "reformMeasure": "取消对出口食品生产企业的许可准入管理，改为备案管理。主要理由：1.2020年8月26日，国务院第105次常务会议已审议通过取消该项许可，改为备案管理。2.根据食品安全法和我国签署的有关双边、多边协定规定，我国食品生产企业向外国出口食品，需要先向我国海关进行备案，我国海关将备案信息推送至目的地国指定主管部门，由该国指定主管部门对我国提出申请的食品生产企业进行审查，审查通过后方可向该国出口食品产品。因此，我国海关实施的备案管理，不具有正式法律效力，主要是我国政府为企业提供的一项公共服务，没有必要再保留许可。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";8;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "海关部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "出口食品生产企业备案证明",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "111000000024032689",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "88ad7c20f63a64df142087a6715be02f",
+            "depLevel": "prefecture",
+            "depName": "上海海关"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "出口食品生产企业备案核准",
+        "aCode": "31000053570",
+        "notificationMethod": "其他",
+        "approvalLevel": "主管海关",
+        "aId": "4ac50226ae01f5a92abc27be1df7eac2",
+        "licences": [
+          {
+            "code": "1000000006",
+            "name": "出口食品生产企业备案证明"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "调味品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "e4bb1b",
+    "scopeId": "e5ad3b45a0a04f33b0ceeb73a91fca16",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"144\",\"name\":\"乳制品制造\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"14\",\"name\":\"食品制造业\"},{\"code\":\"1442\",\"name\":\"乳粉制造\"},{\"code\":\"1441\",\"name\":\"液体乳制造\"},{\"code\":\"1449\",\"name\":\"其他乳制品制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国食品安全法》，从事乳制品生产的活动。",
+    "gbName": "144乳制品制造",
+    "permitExplain": "",
+    "entType": "1;2;3;4",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C2002",
+    "approvalList": [
+      {
+        "reformMeasure": "1.对低风险食品生产许可，实行告知承诺。制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。2.除特殊食品（包括保健食品、婴幼儿配方食品和特殊医学用途配方食品）、婴幼儿辅助食品、食盐外，将审批权限由省级市场监管部门下放至设区的市、县级市场监管部门。3.实现申请、审批全程网上办理。4.不再要求申请人提供营业执照、食品安全管理制度文本等材料，但申请特殊食品生产许可的应提交与所生产食品相适应的生产质量管理体系文件。5.申请人不采取告知承诺审批方式的，将审批时限由20个工作日压减至10个工作日。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "食品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "食品（含食品添加剂）生产许可",
+        "aCode": "31000053490",
+        "notificationMethod": "双告知",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "ef1930d98faaf3cbebb82f019edc1a97",
+        "licences": [
+          {
+            "code": "1000000484",
+            "name": "食品生产许可证"
+          }
+        ]
+      },
+      {
+        "reformMeasure": "取消对出口食品生产企业的许可准入管理，改为备案管理。主要理由：1.2020年8月26日，国务院第105次常务会议已审议通过取消该项许可，改为备案管理。2.根据食品安全法和我国签署的有关双边、多边协定规定，我国食品生产企业向外国出口食品，需要先向我国海关进行备案，我国海关将备案信息推送至目的地国指定主管部门，由该国指定主管部门对我国提出申请的食品生产企业进行审查，审查通过后方可向该国出口食品产品。因此，我国海关实施的备案管理，不具有正式法律效力，主要是我国政府为企业提供的一项公共服务，没有必要再保留许可。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";8;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "海关部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "出口食品生产企业备案证明",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "111000000024032689",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "88ad7c20f63a64df142087a6715be02f",
+            "depLevel": "prefecture",
+            "depName": "上海海关"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "出口食品生产企业备案核准",
+        "aCode": "31000053570",
+        "notificationMethod": "其他",
+        "approvalLevel": "主管海关",
+        "aId": "4ac50226ae01f5a92abc27be1df7eac2",
+        "licences": [
+          {
+            "code": "1000000006",
+            "name": "出口食品生产企业备案证明"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "乳制品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "34b6e8",
+    "scopeId": "b81c7a77aa9e4b92932b0326c833f398",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"353\",\"name\":\"食品、饮料、烟草及饲料生产专用设备制造\"},{\"code\":\"35\",\"name\":\"专用设备制造业\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"3532\",\"name\":\"农副食品加工专用设备制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事对谷物、干豆类等农作物的筛选、碾磨、储存等专用机械，糖料和油料作物加工机械，畜禽屠宰、水产品加工及盐加工机械制造的活动。",
+    "gbName": "3532农副食品加工专用设备制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["农副<b style='color: #1890ff'>食品</b>加工专用设备制造"]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "CN017",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "农副食品加工专用设备制造",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "840b28",
+    "scopeId": "35809c6737c24437655b13683182ba1a",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5299\",\"name\":\"其他未列明零售业\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"5179\",\"name\":\"其他机械设备及电子产品批发\"},{\"code\":\"517\",\"name\":\"机械设备、五金产品及电子产品批发\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"529\",\"name\":\"货摊、无店铺及其他零售业\"},{\"code\":\"52\",\"name\":\"零售业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事对谷物、干豆类等农作物的筛选、碾磨、储存等专用机械，糖料和油料作物加工机械，畜禽屠宰、水产品加工及盐加工机械销售的活动。",
+    "gbName": "5179其他机械设备及电子产品批发；5299其他未列明零售业",
+    "permitExplain": "",
+    "entType": "1;2;3;4;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "standardItem": ["农副<b style='color: #1890ff'>食品</b>加工专用设备销售"]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F3030",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "农副食品加工专用设备销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "64581b",
+    "scopeId": "87caeff7b09e4c6696871a2f83e012db",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"34\",\"name\":\"通用设备制造业\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"346\",\"name\":\"烘炉、风机、包装等设备制造\"},{\"code\":\"3467\",\"name\":\"包装专用设备制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事对瓶、桶、箱、袋或其他容器的洗涤、干燥、装填、密封和贴标签等专用包装机械制造的活动。",
+    "gbName": "3467包装专用设备制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "包装容器专用干燥机械；灭菌检漏设备；灌装容器用机械；装填容器用机械；饮料灌装设备；液体<b style='color: #1890ff'>食品</b>灌装设备",
+        "；手提式液体<b style='color: #1890ff'>食品</b>灌装机；非手提式液体<b style='color: #1890ff'>食品</b>灌装机械；饮料真空包装机；饮料收缩包装机；"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "CM027",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "包装专用设备制造",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "3448f9",
+    "scopeId": "26cdbf24c04a2eb383d36e8475a2cce1",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5175\",\"name\":\"电气设备批发\"},{\"code\":\"5199\",\"name\":\"其他未列明批发业\"},{\"code\":\"5299\",\"name\":\"其他未列明零售业\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"5179\",\"name\":\"其他机械设备及电子产品批发\"},{\"code\":\"517\",\"name\":\"机械设备、五金产品及电子产品批发\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"529\",\"name\":\"货摊、无店铺及其他零售业\"},{\"code\":\"52\",\"name\":\"零售业\"},{\"code\":\"519\",\"name\":\"其他批发业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事对瓶、桶、箱、袋或其他容器的洗涤、干燥、装填、密封和贴标签等专用包装机械销售的活动",
+    "gbName": "5175电气设备批发；5179其他机械设备及电子产品批发；5199其他未列明批发业；5299其他未列明零售业",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "包装容器专用干燥机械；灭菌检漏设备；灌装容器用机械；装填容器用机械；饮料灌装设备；液体<b style='color: #1890ff'>食品</b>灌装设备",
+        "；手提式液体<b style='color: #1890ff'>食品</b>灌装机；非手提式液体<b style='color: #1890ff'>食品</b>灌装机械；饮料真空包装机；饮料收缩包装机；"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F3264",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "包装专用设备销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "249fb9",
+    "scopeId": "ec7a8274912d91ad44aeefada3b60afd",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"14\",\"name\":\"食品制造业\"},{\"code\":\"1499\",\"name\":\"其他未列明食品制造\"},{\"code\":\"149\",\"name\":\"其他食品制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "gbName": "1499其他未列明食品制造",
+    "permitExplain": "",
+    "entType": "1;2;3;4",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "对槟榔原果进行加工，制造相关<b style='color: #1890ff'>食品</b>的活动"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C2021",
+    "approvalList": [
+      {
+        "reformMeasure": "取消对出口食品生产企业的许可准入管理，改为备案管理。主要理由：1.2020年8月26日，国务院第105次常务会议已审议通过取消该项许可，改为备案管理。2.根据食品安全法和我国签署的有关双边、多边协定规定，我国食品生产企业向外国出口食品，需要先向我国海关进行备案，我国海关将备案信息推送至目的地国指定主管部门，由该国指定主管部门对我国提出申请的食品生产企业进行审查，审查通过后方可向该国出口食品产品。因此，我国海关实施的备案管理，不具有正式法律效力，主要是我国政府为企业提供的一项公共服务，没有必要再保留许可。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";8;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "海关部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "出口食品生产企业备案证明",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "111000000024032689",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "88ad7c20f63a64df142087a6715be02f",
+            "depLevel": "prefecture",
+            "depName": "上海海关"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "出口食品生产企业备案核准",
+        "aCode": "31000053570",
+        "notificationMethod": "其他",
+        "approvalLevel": "主管海关",
+        "aId": "4ac50226ae01f5a92abc27be1df7eac2",
+        "licences": [
+          {
+            "code": "1000000006",
+            "name": "出口食品生产企业备案证明"
+          }
+        ]
+      },
+      {
+        "reformMeasure": "1.对低风险食品生产许可，实行告知承诺。制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。2.除特殊食品（包括保健食品、婴幼儿配方食品和特殊医学用途配方食品）、婴幼儿辅助食品、食盐外，将审批权限由省级市场监管部门下放至设区的市、县级市场监管部门。3.实现申请、审批全程网上办理。4.不再要求申请人提供营业执照、食品安全管理制度文本等材料，但申请特殊食品生产许可的应提交与所生产食品相适应的生产质量管理体系文件。5.申请人不采取告知承诺审批方式的，将审批时限由20个工作日压减至10个工作日。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "食品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "食品（含食品添加剂）生产许可",
+        "aCode": "31000053490",
+        "notificationMethod": "双告知",
+        "approvalLevel": "县级以上地方市场监管部门",
+        "aId": "ef1930d98faaf3cbebb82f019edc1a97",
+        "licences": [
+          {
+            "code": "1000000484",
+            "name": "食品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "槟榔加工",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "44fceb",
+    "scopeId": "fa5ad9cbfc3543b886e12fdfc40ce884",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"15\",\"name\":\"酒、饮料和精制茶制造业\"},{\"code\":\"1530\",\"name\":\"精制茶加工\"},{\"code\":\"1529\",\"name\":\"茶饮料及其他饮料制造\"},{\"code\":\"152\",\"name\":\"饮料制造\"},{\"code\":\"153\",\"name\":\"精制茶加工\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国食品安全法》，从事茶叶制品生产的活动。",
+    "gbName": "1529茶饮料及其他饮料制造；1530精制茶加工",
+    "permitExplain": "",
+    "entType": "1;2;3;4",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C3002",
+    "approvalList": [
+      {
+        "reformMeasure": "取消对出口食品生产企业的许可准入管理，改为备案管理。主要理由：1.2020年8月26日，国务院第105次常务会议已审议通过取消该项许可，改为备案管理。2.根据食品安全法和我国签署的有关双边、多边协定规定，我国食品生产企业向外国出口食品，需要先向我国海关进行备案，我国海关将备案信息推送至目的地国指定主管部门，由该国指定主管部门对我国提出申请的食品生产企业进行审查，审查通过后方可向该国出口食品产品。因此，我国海关实施的备案管理，不具有正式法律效力，主要是我国政府为企业提供的一项公共服务，没有必要再保留许可。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";8;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "海关部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "出口食品生产企业备案证明",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "111000000024032689",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "88ad7c20f63a64df142087a6715be02f",
+            "depLevel": "prefecture",
+            "depName": "上海海关"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "出口食品生产企业备案核准",
+        "aCode": "31000053570",
+        "notificationMethod": "其他",
+        "approvalLevel": "主管海关",
+        "aId": "4ac50226ae01f5a92abc27be1df7eac2",
+        "licences": [
+          {
+            "code": "1000000006",
+            "name": "出口食品生产企业备案证明"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "茶叶制品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "b464ba",
+    "scopeId": "a7e24ff9379b49d391aff92d2acc690d",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"305\",\"name\":\"玻璃制品制造\"},{\"code\":\"3055\",\"name\":\"玻璃包装容器制造\"},{\"code\":\"30\",\"name\":\"非金属矿物制品业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事主要用于产品包装的各种玻璃容器制造的活动。不包括危险化学品包装物及容器生产。",
+    "gbName": "3055玻璃包装容器制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "禁止新建不符合国家产业政策的小型造纸、制革、印染、染料、炼焦、炼硫、炼砷、炼汞、炼油、电镀、农药、石棉、水泥、玻璃、钢铁、火电以及其他严重污染水环境的生产项目。",
+    "highlight": {
+      "includedItemsIk": [
+        "玻璃包装容器制造；玻璃饮料瓶；玻璃<b style='color: #1890ff'>食品</b>瓶；玻璃啤酒瓶；玻璃白酒容器；玻璃输液瓶；玻璃制安瓿"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "CI017",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "普通玻璃容器制造",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "b42159",
+    "scopeId": "a9a677de61ba4cbbb114e30bc883be14",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"385\",\"name\":\"家用电力器具制造\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"38\",\"name\":\"电气机械和器材制造业\"},{\"code\":\"3854\",\"name\":\"家用厨房电器具制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《食品相关产品生产许可实施细则》，从事不锈钢压力锅，铝压力锅生产的活动",
+    "gbName": "3854家用厨房电器具制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW012",
+    "approvalList": [
+      {
+        "reformMeasure": "制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（食品相关产品、化肥）生产许可证核发",
+        "aCode": "31000053494",
+        "notificationMethod": "双告知",
+        "approvalLevel": "省级市场监管部门",
+        "aId": "29e45907e540c6fcb6f2bfd14ba517b3",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "压力锅生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "846ff8",
+    "scopeId": "cfd07a1d7a5e48008b676754bbc34613",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"302\",\"name\":\"石膏、水泥制品及类似制品制造\"},{\"code\":\"3022\",\"name\":\"砼结构构件制造\"},{\"code\":\"30\",\"name\":\"非金属矿物制品业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《预应力混凝土铁路桥简支梁产品生产许可证实施细则》，从事预应力混凝土铁路桥梁简支梁产品生产的活动。",
+    "gbName": "3022砼结构构件制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW006",
+    "approvalList": [
+      {
+        "reformMeasure": "参照重要工业产品（食品相关产品、化肥）生产许可证核发的改革举措，制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（除食品相关产品、化肥外）生产许可证核发",
+        "aCode": "31000053488",
+        "notificationMethod": "双告知",
+        "approvalLevel": "市场监管总局；省级市场监管部门",
+        "aId": "72deb8ebf0a40c670eb8b51d251dc421",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "预应力混凝土铁路桥梁简支梁产品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "248d18",
+    "scopeId": "7d31c40cd9834c1790b5d57422b5b051",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"33\",\"name\":\"金属制品业\"},{\"code\":\"3082\",\"name\":\"云母制品制造\"},{\"code\":\"3081\",\"name\":\"石棉制品制造\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"3057\",\"name\":\"制镜及类似品加工\"},{\"code\":\"3332\",\"name\":\"金属压力容器制造\"},{\"code\":\"3056\",\"name\":\"玻璃保温容器制造\"},{\"code\":\"3089\",\"name\":\"耐火陶瓷制品及其他耐火材料制造\"},{\"code\":\"3331\",\"name\":\"集装箱制造\"},{\"code\":\"3055\",\"name\":\"玻璃包装容器制造\"},{\"code\":\"3054\",\"name\":\"日用玻璃制品制造\"},{\"code\":\"3053\",\"name\":\"玻璃仪器制造\"},{\"code\":\"3052\",\"name\":\"光学玻璃制造\"},{\"code\":\"3051\",\"name\":\"技术玻璃制品制造\"},{\"code\":\"333\",\"name\":\"集装箱及金属包装容器制造\"},{\"code\":\"3059\",\"name\":\"其他玻璃制品制造\"},{\"code\":\"3333\",\"name\":\"金属包装容器及材料制造\"},{\"code\":\"305\",\"name\":\"玻璃制品制造\"},{\"code\":\"308\",\"name\":\"耐火材料制品制造\"},{\"code\":\"30\",\"name\":\"非金属矿物制品业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《危险化学品包装物、容器产品生产许可证实施细则》，从事危险化学品包装物及容器生产的活动。",
+    "gbName": "305玻璃制品制造；308耐火材料制品制造；333集装箱及金属包装容器制造",
+    "permitExplain": "",
+    "entType": "1;2",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW007",
+    "approvalList": [
+      {
+        "reformMeasure": "参照重要工业产品（食品相关产品、化肥）生产许可证核发的改革举措，制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（除食品相关产品、化肥外）生产许可证核发",
+        "aCode": "31000053488",
+        "notificationMethod": "双告知",
+        "approvalLevel": "市场监管总局；省级市场监管部门",
+        "aId": "72deb8ebf0a40c670eb8b51d251dc421",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "危险化学品包装物及容器生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "044b6a",
+    "scopeId": "a6609b9ecd26424c8ecaab7809b707e7",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"313\",\"name\":\"钢压延加工\"},{\"code\":\"3130\",\"name\":\"钢压延加工\"},{\"code\":\"31\",\"name\":\"黑色金属冶炼和压延加工业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《建筑用钢筋产品生产许可证实施细则》，从事建筑用钢筋产品生产的活动。",
+    "gbName": "3130钢压延加工",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW008",
+    "approvalList": [
+      {
+        "reformMeasure": "参照重要工业产品（食品相关产品、化肥）生产许可证核发的改革举措，制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（除食品相关产品、化肥外）生产许可证核发",
+        "aCode": "31000053488",
+        "notificationMethod": "双告知",
+        "approvalLevel": "市场监管总局；省级市场监管部门",
+        "aId": "72deb8ebf0a40c670eb8b51d251dc421",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "建筑用钢筋产品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "248ada",
+    "scopeId": "4a9f83628d5b4adfb9c63cb5d78f5d71",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"34\",\"name\":\"通用设备制造业\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"347\",\"name\":\"文化、办公用机械制造\"},{\"code\":\"3475\",\"name\":\"计算器及货币专用设备制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《人民币鉴别仪产品生产许可证实施细则》，从事验钞机、验钞仪等人民币鉴别仪产品生产的活动。",
+    "gbName": "3475计算器及货币专用设备制造",
+    "permitExplain": "",
+    "entType": "1;2",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW010",
+    "approvalList": [
+      {
+        "reformMeasure": "参照重要工业产品（食品相关产品、化肥）生产许可证核发的改革举措，制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（除食品相关产品、化肥外）生产许可证核发",
+        "aCode": "31000053488",
+        "notificationMethod": "双告知",
+        "approvalLevel": "市场监管总局；省级市场监管部门",
+        "aId": "72deb8ebf0a40c670eb8b51d251dc421",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "人民币鉴别仪产品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "b447a8",
+    "scopeId": "62fc22193acd49479c18e0ef66a48eef",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"38\",\"name\":\"电气机械和器材制造业\"},{\"code\":\"3831\",\"name\":\"电线、电缆制造\"},{\"code\":\"383\",\"name\":\"电线、电缆、光缆及电工器材制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《电线电缆产品生产许可证实施细则》，从事电线、电缆制造的活动。",
+    "gbName": "3831电线、电缆制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW011",
+    "approvalList": [
+      {
+        "reformMeasure": "参照重要工业产品（食品相关产品、化肥）生产许可证核发的改革举措，制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（除食品相关产品、化肥外）生产许可证核发",
+        "aCode": "31000053488",
+        "notificationMethod": "双告知",
+        "approvalLevel": "市场监管总局；省级市场监管部门",
+        "aId": "72deb8ebf0a40c670eb8b51d251dc421",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "电线、电缆制造",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "741ba9",
+    "scopeId": "6a3f56614d6e4d48b97b2ba9477dc67e",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"132\",\"name\":\"饲料加工\"},{\"code\":\"13\",\"name\":\"农副食品加工业\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"1321\",\"name\":\"宠物饲料加工\"},{\"code\":\"1329\",\"name\":\"其他饲料加工\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《饲料和饲料添加剂管理条例》，生产经工业化加工、制作的供动物食用的产品，包括单一饲料、添加剂预混合饲料、浓缩饲料、配合饲料和精料补充料的活动。",
+    "gbName": "1321宠物饲料加工；1329其他饲料加工",
+    "permitExplain": "",
+    "entType": "1;2;4",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C1008",
+    "approvalList": [
+      {
+        "reformMeasure": "1.实现申请、审批网上办理。2.不再要求申请人提供人员资质证明、营业执照等材料。3.将审批时限由20个工作日压减至10个工作日。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";2;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "农业农村部门;",
+        "reformModeCode": "4",
+        "notificationMethodCode": "2",
+        "licenseName": "饲料生产许可证、饲料添加剂生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "1131000000242400X1",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "cae2eed47ee0e92d0a9b5f03a72e75a9",
+            "depLevel": "prefecture",
+            "depName": "上海市农业农村委员会"
+          }
+        ],
+        "reformMode": "优化审批服务",
+        "aName": "从事饲料、饲料添加剂生产的企业审批",
+        "aCode": "31000053268",
+        "notificationMethod": "双告知",
+        "approvalLevel": "省级农业农村部门",
+        "aId": "4a7f2ba76a24f10620d3874650b1c214",
+        "licences": [
+          {
+            "code": "1000000158",
+            "name": "饲料生产许可证、饲料添加剂生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "饲料生产",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "5475eb",
+    "scopeId": "c90e537a763741629f35b776d47c8f48",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"5179\",\"name\":\"其他机械设备及电子产品批发\"},{\"code\":\"517\",\"name\":\"机械设备、五金产品及电子产品批发\"},{\"code\":\"51\",\"name\":\"批发业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事智智能农机装备销售的活动。",
+    "gbName": "5179其他机械设备及电子产品批发",
+    "permitExplain": "",
+    "entType": "1;2;3;4;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "经济作物高效智能收获与智能控制装备；设施智能化精细生产装备；农产品产后智能化干制与精细选别装备；<b style='color: #1890ff'>食品</b>工业化加工与智能制造装备"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F1160",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "智能农机装备销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "944d1a",
+    "scopeId": "b64826954e7b4199968ec6505cd7cbd1",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"518\",\"name\":\"贸易经纪与代理\"},{\"code\":\"5181\",\"name\":\"贸易代理\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事不拥有货物的所有权，为实现供求双方达成交易，按协议收取佣金的国内贸易代理活动。",
+    "gbName": "5181贸易代理",
+    "permitExplain": "",
+    "entType": "1;2;3;5",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "农畜及土特产品；粮油及<b style='color: #1890ff'>食品</b>；纺织服装；生活日用品；文化用品；体育用品；图书；音像；"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F1186",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "国内贸易代理",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "04b64b",
+    "scopeId": "24a253a884874dfdae04dc7f799d1e94",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"7452\",\"name\":\"检测服务\"},{\"code\":\"745\",\"name\":\"质检技术服务\"},{\"code\":\"M\",\"name\":\"科学研究和技术服务业\"},{\"code\":\"74\",\"name\":\"专业技术服务业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国计量法》《中华人民共和国认证认可条例》《医疗器械监督管理条例》《食品安全法》，从事为社会提供公证数据的产品、向社会出具具有证明作用的数据和结果、医疗器械检测服务的活动。(纳入检验检测机构资质认定事项清单的检验检测服务）",
+    "gbName": "7452检测服务",
+    "permitExplain": "",
+    "entType": "1;2",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "；农产品质量检验；机动车检验；电信设备检验；网络关键设备和网络安全专用产品检验；<b style='color: #1890ff'>食品</b>检验"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "M2015",
+    "approvalList": [
+      {
+        "reformMeasure": "制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "检验检测机构资质认定证书",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "检验检测机构资质认定",
+        "aCode": "31000053496",
+        "notificationMethod": "双告知",
+        "approvalLevel": "市场监管总局；省级市场监管部门",
+        "aId": "2bbc0fc259f7379d9f83f1d9a80e21f7",
+        "licences": [
+          {
+            "code": "1000000397",
+            "name": "检验检测机构资质认定证书"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "检验检测服务",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "14367a",
+    "scopeId": "5e4896fb92a9aadd9888243d74cbc4ba",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"5299\",\"name\":\"其他未列明零售业\"},{\"code\":\"F\",\"name\":\"批发和零售业\"},{\"code\":\"5179\",\"name\":\"其他机械设备及电子产品批发\"},{\"code\":\"517\",\"name\":\"机械设备、五金产品及电子产品批发\"},{\"code\":\"51\",\"name\":\"批发业\"},{\"code\":\"529\",\"name\":\"货摊、无店铺及其他零售业\"},{\"code\":\"52\",\"name\":\"零售业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事用于专业生产、商业经营等方面的制冷设备和空调设备销售的活动。从事家用空调设备的，需办理相关许可审批，并登记相关经营范围。",
+    "gbName": "5179其他机械设备及电子产品批发；5299其他未列明零售业",
+    "permitExplain": "",
+    "entType": "1;2;3;5;6",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "压缩冷凝机冷库成套设备；制冰机；速冻机；冷饮机；雪泥机；工商用冰淇淋机；炒冰机；<b style='color: #1890ff'>食品</b>真空冷冻干燥机",
+        "；<b style='color: #1890ff'>食品</b>冷冻冷藏柜；医用冷冻冷藏箱；医用冷冻冷藏柜；科研用冷冻冷藏箱；科研用冷冻冷藏柜"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "F3152",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "制冷、空调设备销售",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "94b67b",
+    "scopeId": "0e9b699ef0504aa5af81624bee3026b4",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"R\",\"name\":\"文化、体育和娱乐业\"},{\"code\":\"90\",\"name\":\"娱乐业\"},{\"code\":\"901\",\"name\":\"室内娱乐活动\"},{\"code\":\"9011\",\"name\":\"歌舞厅娱乐活动\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《娱乐场所管理条例》，从事以营利为目的，并向公众开放、消费者自娱自乐的歌舞场所经营的活动。",
+    "gbName": "9011歌舞厅娱乐活动",
+    "permitExplain": "",
+    "entType": "1;2",
+    "prohibitedAreaRule": "在饮用水水源一级保护区内禁止从事餐饮、旅游、娱乐、运动等生产经营活动。;禁止在商住楼新设可能产生噪声、振动超标的五金加工、建材加工、汽车维修和服务、娱乐业以及可能影响生活环境的废品回收等项目。;禁止在住宅楼（包括商住楼的住宅部分）从事产生噪声、振动的生产经营活动。;娱乐场所不得设在下列地点：（一）居民楼、博物馆、图书馆和被核定为文物保护单位的建筑物内；（二）居民住宅区和学校、医院、机关周围；（三）车站、机场等人群密集的场所；（四）建筑物地下一层以下；（五）与危险化学品仓库毗连的区域。;中小学校园周边不得设置营业性歌舞娱乐场所、互联网上网服务营业场所等不适宜未成年人活动的场所。;禁止在中小学校附近开办营业性歌舞厅、营业性电子游戏场所以及其他未成年人不适宜进入的场所。;公园内不得规划建设餐厅、酒吧、歌舞厅、夜总会、宾馆、酒店、会所等商业经营设施，以及有碍景观或者与公园功能无关的建筑物、构筑物和其他设施。",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "R5001",
+    "approvalList": [
+      {
+        "reformMeasure": "将审批时限由20个工作日压减至10个工作日。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";16;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "文化和旅游部门;",
+        "reformModeCode": "4",
+        "notificationMethodCode": "2",
+        "licenseName": "娱乐经营许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F306534",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "50eaa76367ea530b47c3040b0d5d24a7",
+            "depLevel": "prefecture",
+            "depName": "上海市文化和旅游局"
+          }
+        ],
+        "reformMode": "优化审批服务",
+        "aName": "外商投资娱乐场所设立审批",
+        "aCode": "31000053244",
+        "notificationMethod": "双告知",
+        "approvalLevel": "省级文化和旅游部门",
+        "aId": "74792dc50245480c07f149a422cba53d",
+        "licences": [
+          {
+            "code": "1000000253",
+            "name": "娱乐经营许可证"
+          }
+        ]
+      },
+      {
+        "reformMeasure": "将审批时限由20个工作日压减至12个工作日。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";16;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "文化和旅游部门;",
+        "reformModeCode": "4",
+        "notificationMethodCode": "2",
+        "licenseName": "娱乐经营许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [],
+        "reformMode": "优化审批服务",
+        "aName": "歌舞娱乐场所设立审批",
+        "aCode": "31000053245",
+        "notificationMethod": "双告知",
+        "approvalLevel": "县级文化和旅游部门",
+        "aId": "23ea8e408f96555ebf370e3b10bd75a2",
+        "licences": [
+          {
+            "code": "1000000253",
+            "name": "娱乐经营许可证"
+          }
+        ]
+      },
+      {
+        "reformMeasure": "制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";9;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "卫生健康部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "卫生许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000076478684Q",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "5a156b95760f17606e6f0260bc503a7c",
+            "depLevel": "prefecture",
+            "depName": "上海市卫生健康委员会"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "公共场所卫生许可",
+        "aCode": "31000053511",
+        "notificationMethod": "双告知",
+        "approvalLevel": "县级以上地方卫生健康部门",
+        "aId": "2bb61cc7f88ac5801ab27616ba818abc",
+        "licences": [
+          {
+            "code": "1000000088",
+            "name": "卫生许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "歌舞娱乐活动",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "04d068",
+    "scopeId": "df94f0c42d104176b51344080a7d7df1",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"34\",\"name\":\"通用设备制造业\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"346\",\"name\":\"烘炉、风机、包装等设备制造\"},{\"code\":\"3464\",\"name\":\"制冷、空调设备制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事用于专业生产、商业经营等方面的制冷设备和空调设备制造的活动。不包括家用空调设备制造的活动。",
+    "gbName": "3464制冷、空调设备制造",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "压缩冷凝机冷库成套设备；制冰机；速冻机；冷饮机；雪泥机；工商用冰淇淋机；炒冰机；<b style='color: #1890ff'>食品</b>真空冷冻干燥机",
+        "；<b style='color: #1890ff'>食品</b>冷冻冷藏柜；医用冷冻冷藏箱；医用冷冻冷藏柜；科研用冷冻冷藏箱；科研用冷冻冷藏柜"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "CM024",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "制冷、空调设备制造",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "5431a9",
+    "scopeId": "2d6b733c351949eb9bd2c1287ee7b098",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"751\",\"name\":\"技术推广服务\"},{\"code\":\"7512\",\"name\":\"生物技术推广服务\"},{\"code\":\"M\",\"name\":\"科学研究和技术服务业\"},{\"code\":\"75\",\"name\":\"科技推广和应用服务业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事工业酶制剂研发的活动。",
+    "gbName": "7512生物技术推广服务",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "工业酶制剂；纺织用酶；造纸用酶；洗涤用酶；制革用酶；化工用酶；能源用酶；<b style='color: #1890ff'>食品</b>用酶；"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "M3009",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "工业酶制剂研发",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "a4fdf9",
+    "scopeId": "6a6e7b0adf2a404ba15e13a550b415fd",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"751\",\"name\":\"技术推广服务\"},{\"code\":\"7516\",\"name\":\"环保技术推广服务\"},{\"code\":\"M\",\"name\":\"科学研究和技术服务业\"},{\"code\":\"75\",\"name\":\"科技推广和应用服务业\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指从事非常规水源利用技术研发的活动。",
+    "gbName": "7516环保技术推广服务",
+    "permitExplain": "",
+    "entType": "1;2;3",
+    "prohibitedAreaRule": "",
+    "highlight": {
+      "includedItemsIk": [
+        "电力、钢铁、有色、石油石化、化工、造纸、纺织印染、<b style='color: #1890ff'>食品</b>加工、机械、电子等高用水行业废水处理及再生水回用"
+      ]
+    },
+    "score": 0,
+    "specialTips": "",
+    "permitType": 0,
+    "scopeCode": "M3028",
+    "approvalList": [],
+    "otherProperty": "0",
+    "standardItem": "非常规水源利用技术研发",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "d4264b",
+    "scopeId": "807e9b773fdc464b9560ea63944e5a89",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"39\",\"name\":\"计算机、通信和其他电子设备制造业\"},{\"code\":\"392\",\"name\":\"通信设备制造\"},{\"code\":\"3921\",\"name\":\"通信系统设备制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《工业产品生产许可证管理条例》，按照《调整后继续实施工业产品生产许可证管理的产品目录》和《卫星电视广播地面接收设备产品生产许可证实施细则》、《无线广播电视发射设备产品生产许可证实施细则》，从事广播电视传输设备制造的活动。",
+    "gbName": "3921通信系统设备制造",
+    "permitExplain": "",
+    "entType": "1;2",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "CW014",
+    "approvalList": [
+      {
+        "reformMeasure": "参照重要工业产品（食品相关产品、化肥）生产许可证核发的改革举措，制作并公布告知承诺书格式文本，一次性告知申请人许可条件和所需材料。对申请人自愿承诺符合许可条件并按要求提交材料的，当场作出许可决定。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";7;",
+        "applyArea": "2",
+        "aType": "2",
+        "supervisorDepType": "市场监管部门;",
+        "reformModeCode": "1",
+        "notificationMethodCode": "2",
+        "licenseName": "重要工业产品生产许可证",
+        "aTypeText": "后置事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "11310000MB2F3067XN",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "0a69acd62106ca60e55bbe0027eefe43",
+            "depLevel": "prefecture",
+            "depName": "上海市市场监督管理局"
+          }
+        ],
+        "reformMode": "实行告知承诺",
+        "aName": "重要工业产品（除食品相关产品、化肥外）生产许可证核发",
+        "aCode": "31000053488",
+        "notificationMethod": "双告知",
+        "approvalLevel": "市场监管总局；省级市场监管部门",
+        "aId": "72deb8ebf0a40c670eb8b51d251dc421",
+        "licences": [
+          {
+            "code": "1000000187",
+            "name": "重要工业产品生产许可证"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "广播电视传输设备制造",
+    "negativeListRule": "",
+    "contentTags": []
+  },
+  {
+    "shortId": "240a18",
+    "scopeId": "54a4830c5cbb40498902d30f44c51c86",
+    "similarityIds": [],
+    "apply": true,
+    "gbObjList": "[{\"code\":\"1514\",\"name\":\"黄酒制造\"},{\"code\":\"1513\",\"name\":\"啤酒制造\"},{\"code\":\"1512\",\"name\":\"白酒制造\"},{\"code\":\"C\",\"name\":\"制造业\"},{\"code\":\"1511\",\"name\":\"酒精制造\"},{\"code\":\"15\",\"name\":\"酒、饮料和精制茶制造业\"},{\"code\":\"1519\",\"name\":\"其他酒制造\"},{\"code\":\"151\",\"name\":\"酒的制造\"},{\"code\":\"1515\",\"name\":\"葡萄酒制造\"}]",
+    "isValid": 1,
+    "isCollect": false,
+    "description": "指依据《中华人民共和国食品安全法》，从事酒制品生产的活动。",
+    "gbName": "151酒的制造",
+    "permitExplain": "",
+    "entType": "1;2;3;4",
+    "prohibitedAreaRule": "",
+    "score": 0,
+    "specialTips": "",
+    "permitType": 2,
+    "scopeCode": "C3003",
+    "approvalList": [
+      {
+        "reformMeasure": "取消对出口食品生产企业的许可准入管理，改为备案管理。主要理由：1.2020年8月26日，国务院第105次常务会议已审议通过取消该项许可，改为备案管理。2.根据食品安全法和我国签署的有关双边、多边协定规定，我国食品生产企业向外国出口食品，需要先向我国海关进行备案，我国海关将备案信息推送至目的地国指定主管部门，由该国指定主管部门对我国提出申请的食品生产企业进行审查，审查通过后方可向该国出口食品产品。因此，我国海关实施的备案管理，不具有正式法律效力，主要是我国政府为企业提供的一项公共服务，没有必要再保留许可。",
+        "approvalLevelRule": [],
+        "busiSection": "新设;变更;",
+        "supervisorDepTypeId": ";8;",
+        "applyArea": "2",
+        "aType": "4",
+        "supervisorDepType": "海关部门;",
+        "reformModeCode": "3",
+        "notificationMethodCode": "4",
+        "licenseName": "出口食品生产企业备案证明",
+        "aTypeText": "备案事项",
+        "supervisorDep": [],
+        "approvalDep": [
+          {
+            "creditCode": "111000000024032689",
+            "handleList": [],
+            "adminCode": "310000",
+            "depId": "88ad7c20f63a64df142087a6715be02f",
+            "depLevel": "prefecture",
+            "depName": "上海海关"
+          }
+        ],
+        "reformMode": "审批改为备案",
+        "aName": "出口食品生产企业备案核准",
+        "aCode": "31000053570",
+        "notificationMethod": "其他",
+        "approvalLevel": "主管海关",
+        "aId": "4ac50226ae01f5a92abc27be1df7eac2",
+        "licences": [
+          {
+            "code": "1000000006",
+            "name": "出口食品生产企业备案证明"
+          }
+        ]
+      }
+    ],
+    "otherProperty": "0",
+    "standardItem": "酒制品生产",
+    "negativeListRule": "",
+    "contentTags": []
+  }
+]
