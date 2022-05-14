@@ -1,0 +1,17 @@
+image: node:latest
+
+workflow:
+  rules:
+    - if: $CI_COMMIT_BRANCH
+
+cache:
+  paths:
+    - node_modules/
+
+pages:
+  script:
+    - yarn install
+    - yarn build
+  artifacts:
+    paths:
+      - dist
