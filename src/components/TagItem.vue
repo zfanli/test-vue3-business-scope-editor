@@ -1,5 +1,5 @@
 <script setup>
-import { nextTick } from 'vue'
+import { nextTick, ref } from 'vue'
 
 const props = defineProps({
   value: String,
@@ -15,6 +15,8 @@ const emits = defineEmits([
   'toggleEditing',
 ])
 
+const input = ref(null)
+
 const toggleEditing = (editing) => emits('toggleEditing', editing)
 const toggleActivated = (evt) => {
   if (props.editing) return
@@ -29,9 +31,9 @@ const becomeEditing = (evt) => {
   nextTick(() => evt.target.focus())
 }
 
-const updateValue = (evt) => {
+const updateValue = () => {
   toggleEditing(false)
-  const newVal = evt.target.textContent
+  const newVal = input.value.textContent
   if (props.value !== newVal) emits('update', newVal)
 }
 
@@ -41,6 +43,7 @@ const deleteTag = () => emits('delete')
 <template>
   <div class="group relative inline-block">
     <span
+      ref="input"
       :class="[
         'relative inline-block  px-2 text-base outline-none',
         'cursor-pointer rounded-sm border-2 ',
@@ -55,13 +58,21 @@ const deleteTag = () => emits('delete')
       @click="toggleActivated($event)"
       @dblclick="becomeEditing($event)"
       :contenteditable="editing"
-      @keyup.enter="updateValue($event)"
+      @keyup.enter="updateValue()"
       @keypress.enter.prevent=""
     >
       {{ value }}
     </span>
 
     <span
+      v-if="editing"
+      class="absolute -top-1 -right-1 z-10 hidden h-4 w-4 cursor-pointer items-center justify-center rounded-full bg-green-400 text-base text-white group-hover:flex"
+      @click="updateValue()"
+    >
+      O
+    </span>
+    <span
+      v-else
       class="absolute -top-1 -right-1 z-10 hidden h-4 w-4 cursor-pointer items-center justify-center rounded-full bg-red-400 text-base text-white group-hover:flex"
       @click="deleteTag()"
     >
