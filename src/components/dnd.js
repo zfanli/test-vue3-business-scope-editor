@@ -48,6 +48,11 @@ export function useDnD() {
     saveHistory('Updated')
   }
 
+  const handleDelete = (idx) => {
+    tags.value.splice(idx, 1)
+    saveHistory('Delete')
+  }
+
   const handleRangeSelect = (list, selectEnd = false) => {
     for (const tag of list) {
       if (tags.value[tag.idx].activated !== tag.activated) {
@@ -156,6 +161,7 @@ export function useDnD() {
     handleUndo,
     handleRedo,
     handleUpdate,
+    handleDelete,
     handleRangeSelect,
   }
 }

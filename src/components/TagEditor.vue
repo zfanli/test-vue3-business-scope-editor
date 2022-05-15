@@ -15,6 +15,7 @@ const {
   handleUndo,
   handleRedo,
   handleUpdate,
+  handleDelete,
   handleRangeSelect,
 } = useDnD()
 
@@ -70,20 +71,20 @@ const {
 
 <template>
   <div
-    class="relative h-screen w-screen flex flex-col items-center justify-center mx-auto"
-    @mousedown.passive="handleMouseDown($event)"
-    @mousemove.passive="handleMouseMove($event)"
-    @mouseup.passive="handleMouseUp($event)"
+    class="relative mx-auto flex h-screen w-screen flex-col items-center justify-center"
   >
     <TransitionGroup
       ref="container"
       name="fade"
       tag="div"
-      class="flex flex-wrap gap-1 p-12 m-10 relative select-none bg-blue-50"
+      class="relative m-10 flex h-60 w-3/4 select-none flex-wrap items-start gap-1 overflow-y-auto bg-blue-50 p-12"
+      @mousedown.passive="handleMouseDown($event)"
+      @mousemove.passive="handleMouseMove($event)"
+      @mouseup.passive="handleMouseUp($event)"
     >
       <span
         key="start"
-        class="inline-block w-5 h-7 -ml-6"
+        class="-ml-6 inline-block h-7 w-5"
         @dragenter="handleDragOver($event, true)"
         @dragleave="handleDragOver($event, false)"
         @drop="handleDrop($event, -Infinity)"
@@ -93,13 +94,14 @@ const {
 
       <div class="wrapper" v-for="(item, idx) in tags" :key="item.id">
         <TagItem
-          class="tag-item"
+          class="tag-item z-10"
           :data-index="idx"
           :value="item.label"
           :activated="item.activated"
           :editing="item.editing"
           :dragging="item.dragging"
           @update="handleUpdate('label', $event, idx)"
+          @delete="handleDelete(idx)"
           @toggleActivated="handleUpdate('activated', $event, idx)"
           @toggleEditing="handleUpdate('editing', $event, idx)"
           @dragstart="handleDrag($event, idx)"
@@ -108,7 +110,7 @@ const {
 
         <span
           v-if="idx !== tags.length - 1"
-          class="px-2 scale-150 inline-block"
+          class="inline-block scale-150 px-2"
           v-bind="markSelectable"
           @dragenter="handleDragOver($event, true)"
           @dragleave="handleDragOver($event, false)"
@@ -121,24 +123,24 @@ const {
 
       <span
         key="end"
-        class="inline-block w-5 h-7"
+        class="inline-block h-7 w-5"
         @dragenter="handleDragOver($event, true)"
         @dragleave="handleDragOver($event, false)"
         @drop="handleDrop($event, Infinity)"
         @dragover.prevent=""
       >
       </span>
+
+      <div ref="selection" class="selection"></div>
     </TransitionGroup>
 
-    <button class="px-2 mx-2" @click="handleUndo">UNDO</button>
-    <button class="px-2 mx-2" @click="handleRedo">REDO</button>
+    <button class="mx-2 px-2" @click="handleUndo">UNDO</button>
+    <button class="mx-2 px-2" @click="handleRedo">REDO</button>
 
-    <button class="px-2 mx-2" @click="handleAddRandom()">Add to Start</button>
-    <button class="px-2 mx-2" @click="handleAddRandom(false)">
+    <button class="mx-2 px-2" @click="handleAddRandom()">Add to Start</button>
+    <button class="mx-2 px-2" @click="handleAddRandom(false)">
       Add to End
     </button>
-
-    <div ref="selection" class="selection"></div>
   </div>
 </template>
 
@@ -148,7 +150,7 @@ const {
 }
 
 .selection {
-  @apply opacity-30 bg-blue-100 fixed border-dashed border-2 border-blue-400 hidden;
+  @apply fixed hidden border-4 border-dotted border-blue-600 bg-blue-300 opacity-50;
 }
 
 .selection-active {
