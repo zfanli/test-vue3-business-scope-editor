@@ -235,8 +235,8 @@ const userAgent = navigator.userAgent
           空白处<b>拖拽选区</b>可以多选，多选时<b>同样</b>可以拖拽排序。
         </div>
         <div class="ml-4 mr-2">
-          3. 多选时可以通过按钮执行删除 <code class="key">Delete</code>、合并
-          <code class="key">Merge</code> 操作。
+          3. 多选时可以通过按钮执行删除 <code class="button">Delete</code>、合并
+          <code class="button">Merge</code> 操作。
         </div>
         <div class="ml-4 mr-2">
           4. 双击标签可以修改标签内容，按
@@ -247,8 +247,8 @@ const userAgent = navigator.userAgent
           ，点击可以<b>删除</b>当前的标签。
         </div>
         <div class="ml-4 mr-2">
-          7. 所有操作可以用按钮 <code class="key">Undo</code> 和
-          <code class="key">Redo</code>
+          7. 所有操作可以用按钮 <code class="button">Undo</code> 和
+          <code class="button">Redo</code>
           执行<b>撤销和重做</b>，也支持快捷键，看上面 shortcuts。
         </div>
         <div class="ml-4 mr-2">
@@ -267,8 +267,12 @@ const userAgent = navigator.userAgent
 </template>
 
 <style scoped>
+.button {
+  @apply relative mx-1  rounded border border-solid border-gray-500 bg-white py-1 px-2 text-xs;
+}
+
 .key {
-  @apply relative mx-1  rounded bg-gray-500 py-1 px-2 text-xs text-white;
+  @apply relative mx-1  rounded border border-white bg-gray-500 py-1 px-2 text-xs text-white;
 }
 
 .key-combined {
