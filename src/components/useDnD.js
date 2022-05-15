@@ -2,20 +2,20 @@ import { ref } from 'vue'
 import { computed } from '@vue/reactivity'
 import { cloneDeep, isEqual } from 'lodash'
 
-import initMock from '@/assets/initMock.json'
+import init from '@/assets/initMock.json'
 
 let id = 0
 
 export function useDnD() {
-  initMock.forEach((item, idx) => {
+  init.forEach((item, idx) => {
     item.id = id++
     item.editing = false
     item.activated = false
     item.dragging = false
-    item._prevSibling = initMock[idx - 1]
+    item._prevSibling = init[idx - 1]
   })
 
-  const tags = ref(initMock)
+  const tags = ref(cloneDeep(init))
 
   const history = ref([{ op: 'init', value: cloneDeep(tags.value) }])
   const historyPointer = ref(0)
@@ -37,6 +37,16 @@ export function useDnD() {
     tags.value.forEach((item, idx) => (item._prevSibling = tags.value[idx - 1]))
   }
 
+  const createTag = (tag) => {
+    return {
+      label: tag,
+      id: id++,
+      editing: false,
+      activated: false,
+      dragging: false,
+    }
+  }
+
   const saveHistory = (op) => {
     console.log('saveHistory', op)
 
@@ -53,6 +63,22 @@ export function useDnD() {
     historyPointer.value++
   }
 
+  const handleClear = () => {
+    tags.value = []
+    saveHistory('Cleared')
+  }
+
+  const handleReset = () => {
+    tags.value = cloneDeep(init)
+    saveHistory('Cleared')
+  }
+
+  const handleAdd = (list, pos) => {
+    list = Array.isArray(list) ? list : [list]
+    tags.value.splice(pos, 0, ...list.map((tag) => createTag(tag)))
+    saveHistory('Added')
+  }
+
   const handleUpdate = (key, val, idx) => {
     if (key === 'activated') {
       const activatedCount = tags.value.filter((item) => item.activated).length
@@ -62,6 +88,9 @@ export function useDnD() {
       tags.value[idx][key] = val
     }
 
+    // ignore change history
+    if (['editing'].includes(key)) return
+    // or save history
     saveHistory('Updated')
   }
 
@@ -119,12 +148,6 @@ export function useDnD() {
     if (historyPointer.value >= historyLastIndex.value) return
     const { value: nextState } = history.value[++historyPointer.value]
     tags.value = cloneDeep(nextState)
-  }
-
-  const handleAddRandom = (toStart = true) => {
-    const pos = toStart ? 0 : tags.value.length
-    tags.value.splice(pos, 0, { label: `test${id + 1}`, id: id++ })
-    saveHistory('Add to ' + (toStart ? 'start' : 'end'))
   }
 
   const handleDrag = (e, idx) => {
@@ -191,12 +214,14 @@ export function useDnD() {
     handleDragEnd,
     handleDragOver,
     handleDrop,
-    handleAddRandom,
     handleUndo,
     handleRedo,
+    handleAdd,
     handleUpdate,
     handleDelete,
     handleMerge,
+    handleClear,
+    handleReset,
     handleRangeDelete,
     handleRangeSelect,
   }
