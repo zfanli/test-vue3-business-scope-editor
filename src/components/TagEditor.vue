@@ -57,20 +57,22 @@ const {
 })
 
 const { shortcuts } = useShortcuts({ handleUndo, handleRedo })
+
+const userAgent = navigator.userAgent
 </script>
 
 <template>
   <div
-    class="relative mx-auto flex h-screen w-screen flex-col items-center justify-center"
+    class="relative mx-auto flex min-h-screen w-screen max-w-6xl flex-col items-center justify-center pt-24"
   >
-    <div class="w-3/4">
+    <div class="mx-2 md:w-3/4">
       <div class="mx-2 mb-2 px-2">Tag Editor</div>
     </div>
     <TransitionGroup
       ref="container"
       name="fade"
       tag="div"
-      class="relative mb-4 flex h-60 w-3/4 select-none flex-wrap items-start gap-1 overflow-y-auto border-4 border-blue-100 bg-blue-50 p-10"
+      class="relative mx-2 mb-4 flex h-60 select-none flex-wrap items-start gap-1 overflow-y-auto overflow-x-hidden border-4 border-blue-100 bg-blue-50 p-10 md:w-3/4"
       @mousedown.passive="handleMouseDown($event)"
       @mousemove.passive="handleMouseMove($event)"
       @mouseup.passive="handleMouseUp($event)"
@@ -127,7 +129,7 @@ const { shortcuts } = useShortcuts({ handleUndo, handleRedo })
       <div key="selection" ref="selection" class="selection"></div>
     </TransitionGroup>
 
-    <div class="relative mb-4 flex w-3/4 items-center">
+    <div class="relative mx-2 mb-4 flex flex-wrap items-center gap-1 md:w-3/4">
       <span class="mx-2 inline-block px-2">Group Operations</span>
 
       <el-button plain class="mx-2 px-2" @click="handleUndo()">Undo</el-button>
@@ -146,7 +148,7 @@ const { shortcuts } = useShortcuts({ handleUndo, handleRedo })
       </el-button>
     </div>
 
-    <div class="relative mb-4 flex w-3/4 items-center">
+    <div class="relative mx-2 mb-4 flex flex-wrap items-center gap-1 md:w-3/4">
       <span class="mx-2 inline-block px-2">Search</span>
       <el-select
         v-model="searchValues"
@@ -188,16 +190,19 @@ const { shortcuts } = useShortcuts({ handleUndo, handleRedo })
       </el-button>
     </div>
 
-    <div class="mb-4 w-3/4">
+    <div class="mx-2 mb-4 md:w-3/4">
       <div class="mx-2 mb-2 px-2">Result Preview</div>
       <div class="bg-gray-100 p-4">
-        {{ tags.map((item) => item.label).join('；') + '。' }}
+        <span v-if="tags.length > 0">
+          {{ tags.map((item) => item.label).join('；') + '。' }}
+        </span>
+        <div v-else class="text-center text-sm text-gray-500">No Data</div>
       </div>
     </div>
 
-    <div class="w-3/4">
+    <div class="mx-2 md:w-3/4">
       <div class="mx-2 mb-2 px-2">Shortcuts</div>
-      <div class="mb-2 flex">
+      <div class="mb-2 flex flex-wrap">
         <div
           class="ml-4 mr-2 mb-2 px-2"
           v-for="(item, idx) in shortcuts"
@@ -217,7 +222,7 @@ const { shortcuts } = useShortcuts({ handleUndo, handleRedo })
       </div>
     </div>
 
-    <div class="w-3/4">
+    <div class="mx-2 mb-4 md:w-3/4">
       <div class="mx-2 mb-2 px-2">Guide</div>
       <div class="bg-orange-50 p-4">
         <div class="ml-4 mr-2">
@@ -251,6 +256,12 @@ const { shortcuts } = useShortcuts({ handleUndo, handleRedo })
           搜索栏输入关键字触发搜索（尝试用“食品”搜索），选中结果，可以添加到开头或结尾，可以多选。
         </div>
       </div>
+    </div>
+
+    <div
+      class="mx-2 mb-4 mt-10 flex flex-grow items-end justify-center px-2 text-xs md:w-3/4"
+    >
+      {{ userAgent }}
     </div>
   </div>
 </template>
@@ -298,8 +309,12 @@ const { shortcuts } = useShortcuts({ handleUndo, handleRedo })
 </style>
 
 <style lang="less">
+html {
+  @apply overflow-auto;
+}
+
 .search-options {
-  @apply max-w-3xl;
+  @apply max-w-xl;
 
   .el-select-dropdown__item {
     @apply flex;

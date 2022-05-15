@@ -1,7 +1,7 @@
 import { onMounted, onUnmounted } from 'vue'
 
 export function useShortcuts({ handleUndo, handleRedo }) {
-  const isAppleDevice = window.navigator.userAgent.includes('AppleWebKit')
+  const isAppleDevice = window.navigator.userAgent.includes('mac')
 
   const getFnKey = (key) => {
     switch (key) {

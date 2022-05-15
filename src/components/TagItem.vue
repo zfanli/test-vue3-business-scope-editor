@@ -42,7 +42,7 @@ const deleteTag = () => emits('delete')
   <div class="group relative inline-block">
     <span
       :class="[
-        'relative inline-block  px-2 text-lg outline-none',
+        'relative inline-block  px-2 text-base outline-none',
         'cursor-pointer rounded-sm border-2 ',
         {
           'border-blue-200 bg-blue-200': !activated,
