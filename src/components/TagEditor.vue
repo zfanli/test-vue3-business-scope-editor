@@ -16,6 +16,8 @@ const {
   handleRedo,
   handleUpdate,
   handleDelete,
+  handleMerge,
+  handleRangeDelete,
   handleRangeSelect,
 } = useDnD()
 
@@ -77,7 +79,7 @@ const {
       ref="container"
       name="fade"
       tag="div"
-      class="relative m-10 flex h-60 w-3/4 select-none flex-wrap items-start gap-1 overflow-y-auto bg-blue-50 p-12"
+      class="relative m-2 flex h-60 w-3/4 select-none flex-wrap items-start gap-1 overflow-y-auto bg-blue-50 p-12"
       @mousedown.passive="handleMouseDown($event)"
       @mousemove.passive="handleMouseMove($event)"
       @mouseup.passive="handleMouseUp($event)"
@@ -131,16 +133,25 @@ const {
       >
       </span>
 
-      <div ref="selection" class="selection"></div>
+      <div key="selection" ref="selection" class="selection"></div>
     </TransitionGroup>
 
-    <button class="mx-2 px-2" @click="handleUndo">UNDO</button>
-    <button class="mx-2 px-2" @click="handleRedo">REDO</button>
+    <div class="relative flex w-3/4 items-center">
+      <span class="mx-2 inline-block px-2">Group Operations</span>
+      <el-button plain class="mx-2 px-2" @click="handleUndo">UNDO</el-button>
+      <el-button plain class="mx-2 px-2" @click="handleRedo">REDO</el-button>
+      <el-button plain class="mx-2 px-2" @click="handleRangeDelete">
+        DELETE
+      </el-button>
+      <el-button plain class="mx-2 px-2" @click="handleMerge">MERGE</el-button>
 
-    <button class="mx-2 px-2" @click="handleAddRandom()">Add to Start</button>
-    <button class="mx-2 px-2" @click="handleAddRandom(false)">
-      Add to End
-    </button>
+      <el-button plain class="mx-2 px-2" @click="handleAddRandom()">
+        Add to Start
+      </el-button>
+      <el-button plain class="mx-2 px-2" @click="handleAddRandom(false)">
+        Add to End
+      </el-button>
+    </div>
   </div>
 </template>
 

@@ -21,6 +21,22 @@ export function useDnD() {
   const historyPointer = ref(0)
   const historyLastIndex = computed(() => history.value.length - 1)
 
+  const splitTagsByActivated = () => {
+    const activatedTags = []
+    const restTags = []
+
+    for (const item of tags.value) {
+      if (item.activated) activatedTags.push(item)
+      else restTags.push(item)
+    }
+
+    return { activatedTags, restTags }
+  }
+
+  const arrangeSiblings = () => {
+    tags.value.forEach((item, idx) => (item._prevSibling = tags.value[idx - 1]))
+  }
+
   const saveHistory = (op) => {
     console.log('saveHistory', op)
 
@@ -28,6 +44,7 @@ export function useDnD() {
       // drop undid histories all after the current pointer
       history.value.splice(historyPointer.value + 1)
 
+    arrangeSiblings()
     const newHistory = cloneDeep(tags.value)
     // cleanup temp status
     newHistory.forEach((item) => (item.dragging = false))
@@ -48,9 +65,32 @@ export function useDnD() {
     saveHistory('Updated')
   }
 
+  const handleMerge = () => {
+    const anchorIndex = tags.value.findIndex((item) => item.activated)
+    if (anchorIndex === -1) return
+
+    const { activatedTags, restTags } = splitTagsByActivated()
+    if (activatedTags.length === 1) return
+
+    const merged = activatedTags.reduce((res, item, idx) => {
+      if (idx !== 0) res.label += item.label
+      return res
+    }, activatedTags[0])
+
+    restTags.splice(anchorIndex, 0, merged)
+    tags.value = restTags
+    saveHistory('Merged')
+  }
+
   const handleDelete = (idx) => {
     tags.value.splice(idx, 1)
     saveHistory('Delete')
+  }
+
+  const handleRangeDelete = () => {
+    const length = tags.value.length
+    tags.value = tags.value.filter((item) => !item.activated)
+    if (length !== tags.value.length) saveHistory('Range Deleted')
   }
 
   const handleRangeSelect = (list, selectEnd = false) => {
@@ -63,8 +103,9 @@ export function useDnD() {
     if (
       selectEnd &&
       !isEqual(tags.value, history.value[historyPointer.value].value)
-    )
+    ) {
       saveHistory('Range Select')
+    }
   }
 
   const handleUndo = () => {
@@ -117,13 +158,7 @@ export function useDnD() {
     e.target.classList.remove('drag-over')
 
     let anchor = tags.value[idx]
-    const activatedTags = []
-    const restTags = []
-
-    for (const item of tags.value) {
-      if (item.activated) activatedTags.push(item)
-      else restTags.push(item)
-    }
+    const { activatedTags, restTags } = splitTagsByActivated()
 
     let anchorIndex
     while (anchorIndex === undefined) {
@@ -145,7 +180,6 @@ export function useDnD() {
     restTags.splice(anchorIndex + 1, 0, ...activatedTags)
 
     if (!isEqual(restTags, tags.value)) {
-      restTags.map((item, idx) => (item._prevSibling = restTags[idx - 1]))
       tags.value = restTags
       saveHistory('Dropped')
     }
@@ -162,6 +196,8 @@ export function useDnD() {
     handleRedo,
     handleUpdate,
     handleDelete,
+    handleMerge,
+    handleRangeDelete,
     handleRangeSelect,
   }
 }
