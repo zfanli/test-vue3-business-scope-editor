@@ -12,22 +12,26 @@ export function useSelection({
   const withPixels = (n) => n + 'px'
   const markSelectable = { 'data-selectable': true }
 
+  let selectionStartedTimer = null
+
   const handleMouseDown = (evt) => {
-    const containerEl = container.value.$el
-    if (evt.target !== containerEl && !evt.target.dataset.selectable) return
+    selectionStartedTimer = setTimeout(() => {
+      const containerEl = container.value.$el
+      if (evt.target !== containerEl && !evt.target.dataset.selectable) return
 
-    onSelectStart && onSelectStart()
+      onSelectStart && onSelectStart()
 
-    const rectangle = selection.value
-    rectangle.classList.add('selection-active')
+      const rectangle = selection.value
+      rectangle.classList.add('selection-active')
 
-    rectangle.dataset.originX = evt.clientX
-    rectangle.dataset.originY = evt.clientY
+      rectangle.dataset.originX = evt.clientX
+      rectangle.dataset.originY = evt.clientY
 
-    rectangle.style.width = 0
-    rectangle.style.height = 0
-    rectangle.style.left = withPixels(evt.clientX)
-    rectangle.style.top = withPixels(evt.clientY)
+      rectangle.style.width = 0
+      rectangle.style.height = 0
+      rectangle.style.left = withPixels(evt.clientX)
+      rectangle.style.top = withPixels(evt.clientY)
+    }, 100)
   }
 
   const handleMouseMove = debounce(
@@ -55,13 +59,17 @@ export function useSelection({
   )
 
   const handleMouseUp = () => {
+    clearTimeout(selectionStartedTimer)
     const rectangle = selection.value
     if (Number(rectangle.dataset.originX) === -1) return
+
     rectangle.classList.remove('selection-active')
     rectangle.dataset.originX = -1
     rectangle.dataset.originY = -1
+
     rectangle.style.width = 0
     rectangle.style.height = 0
+
     onSelectEnd && onSelectEnd()
   }
 
