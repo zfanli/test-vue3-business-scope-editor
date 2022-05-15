@@ -8,18 +8,29 @@ export function useSelection({
 }) {
   const container = ref(null)
   const selection = ref(null)
+  const tagBounding = ref([])
 
   const withPixels = (n) => n + 'px'
   const markSelectable = { 'data-selectable': true }
 
   let selectionStartedTimer = null
 
+  const calculateSelection = (range, target) => {
+    const { x: minX, y: minY, width, height } = range
+    const { x: tMinX, y: tMinY, width: tWidth, height: tHeight } = target
+    const maxX = minX + width
+    const maxY = minY + height
+    const tMaxX = tMinX + tWidth
+    const tMaxY = tMinY + tHeight
+    const result =
+      maxX >= tMinX && maxY >= tMinY && minX <= tMaxX && minY <= tMaxY
+    return result
+  }
+
   const handleMouseDown = (evt) => {
     selectionStartedTimer = setTimeout(() => {
       const containerEl = container.value.$el
       if (evt.target !== containerEl && !evt.target.dataset.selectable) return
-
-      onSelectStart && onSelectStart()
 
       const rectangle = selection.value
       rectangle.classList.add('selection-active')
@@ -31,6 +42,18 @@ export function useSelection({
       rectangle.style.height = 0
       rectangle.style.left = withPixels(evt.clientX)
       rectangle.style.top = withPixels(evt.clientY)
+
+      const bounding = []
+
+      for (const tag of containerEl.querySelectorAll('.tag-item')) {
+        bounding.push({
+          index: Number(tag.dataset.index),
+          rect: tag.getBoundingClientRect(),
+        })
+      }
+
+      tagBounding.value = bounding
+      onSelectStart && onSelectStart()
     }, 100)
   }
 
@@ -47,12 +70,17 @@ export function useSelection({
         y: Math.min(originY, evt.clientY),
       }
 
-      onSelecting && onSelecting(pos)
-
       rectangle.style.width = withPixels(pos.width)
       rectangle.style.height = withPixels(pos.height)
       rectangle.style.left = withPixels(pos.x)
       rectangle.style.top = withPixels(pos.y)
+
+      const result = tagBounding.value.map((tag) => ({
+        activated: calculateSelection(pos, tag.rect),
+        idx: tag.index,
+      }))
+
+      onSelecting && onSelecting(result)
     },
     16,
     { maxWait: 16 }
