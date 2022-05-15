@@ -241,7 +241,7 @@ const { shortcuts } = useShortcuts({ handleUndo, handleRedo })
         </div>
         <div class="ml-4 mr-2">
           8.
-          在搜索栏输入关键字触发搜索，从搜索结果中选择标签，添加到开头或结尾，可以多选。
+          在搜索栏输入关键字触发搜索（尝试用“食品”搜索），从搜索结果中选择标签，添加到开头或结尾，可以多选。
         </div>
       </div>
     </div>
