@@ -45,6 +45,10 @@ export function useShortcuts({ handleUndo, handleRedo }) {
         name: '重做',
         keys: [getFnKey('ctrl'), 'shift', 'z'],
       },
+      {
+        name: '多选',
+        keys: [getFnKey('ctrl'), 'left click'],
+      },
     ],
   }
 }

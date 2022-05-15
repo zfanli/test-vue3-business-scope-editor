@@ -220,28 +220,35 @@ const { shortcuts } = useShortcuts({ handleUndo, handleRedo })
     <div class="w-3/4">
       <div class="mx-2 mb-2 px-2">Guide</div>
       <div class="bg-orange-50 p-4">
-        <div class="ml-4 mr-2">1. Tag Editor 内可以选中标签进行拖拽排序。</div>
         <div class="ml-4 mr-2">
-          2. 按住
-          <code class="key">ctrl</code>
-          可以进行多选，在空白处拖拽鼠标可以使用选区进行多选，可以同时拖拽排序多个标签。
+          1. Tag Editor 内可以选中标签，<b>拖拽排序</b>。
         </div>
         <div class="ml-4 mr-2">
-          3. 多选时还可以通过按钮进行删除 <code class="key">Delete</code>、合并
+          2. 同时按
+          <code class="key">ctrl</code>
+          可以<b>多选</b>，在 Tag Editor
+          空白处<b>拖拽选区</b>可以多选，多选时<b>同样</b>可以拖拽排序。
+        </div>
+        <div class="ml-4 mr-2">
+          3. 多选时可以通过按钮执行删除 <code class="key">Delete</code>、合并
           <code class="key">Merge</code> 操作。
         </div>
-        <div class="ml-4 mr-2">4. 对标签进行双击可以修改标签内容。</div>
-        <div class="ml-4 mr-2">5. 标签内容修改后，按回车可以完成保存。</div>
         <div class="ml-4 mr-2">
-          6. 光标在标签上悬停显示删除图标，可以删除当前的标签。
+          4. 双击标签可以修改标签内容，按
+          <code class="key">enter</code> 可以保存。
         </div>
         <div class="ml-4 mr-2">
-          7. 对标签的操作可以通过按钮 <code class="key">Undo</code> 和
-          <code class="key">Redo</code> 进行撤销和重做，也支持快捷键操作。
+          6. 在标签上<b>悬停</b>鼠标显示删除 icon
+          ，点击可以<b>删除</b>当前的标签。
+        </div>
+        <div class="ml-4 mr-2">
+          7. 所有操作可以用按钮 <code class="key">Undo</code> 和
+          <code class="key">Redo</code>
+          执行<b>撤销和重做</b>，也支持快捷键，看上面 shortcuts。
         </div>
         <div class="ml-4 mr-2">
           8.
-          在搜索栏输入关键字触发搜索（尝试用“食品”搜索），从搜索结果中选择标签，添加到开头或结尾，可以多选。
+          搜索栏输入关键字触发搜索（尝试用“食品”搜索），选中结果，可以添加到开头或结尾，可以多选。
         </div>
       </div>
     </div>
